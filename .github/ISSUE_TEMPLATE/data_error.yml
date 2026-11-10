@@ -1,0 +1,25 @@
+name: Data error report
+description: A section, citation or heading in the data does not match the official source.
+labels: [data]
+body:
+  - type: input
+    id: where
+    attributes:
+      label: Law and article
+      description: The law slug and article key, e.g. usc-42 / 1983, cfr-40 / 141.86, us-const / amd-14-1.
+    validations:
+      required: true
+  - type: input
+    id: release
+    attributes:
+      label: Release
+      description: The release tag or the edition (USC release point, eCFR date) you are using.
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What is wrong
+      description: What the data says, and what the official source says, with its URL.
+    validations:
+      required: true

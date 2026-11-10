@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Trimmed from the OLRC USLM release point 119-138 (Title 9 and Title 1), public domain. -->
+<uscDoc xmlns="http://xml.house.gov/schemas/uslm/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" identifier="/us/usc/t9">
+<meta>
+  <dc:title>Title 9</dc:title>
+  <dc:type>USCTitle</dc:type>
+  <docNumber>9</docNumber>
+  <docPublicationName>Online@119-138</docPublicationName>
+  <property role="is-positive-law">yes</property>
+</meta>
+<main>
+<title identifier="/us/usc/t9"><num value="9">Title 9—</num><heading>ARBITRATION</heading>
+<note topic="miscellaneous"><p>Current through 119-138</p></note>
+<toc><layout><tocItem><column><ref href="/us/usc/t9/ch1">1.</ref></column><column>General provisions</column></tocItem></layout></toc>
+<chapter identifier="/us/usc/t9/ch1"><num value="1">CHAPTER 1—</num><heading>GENERAL PROVISIONS</heading>
+<notes type="uscNote"><note topic="miscellaneous"><p>Chapter-level note that is not section text.</p></note></notes>
+<section identifier="/us/usc/t9/s2"><num value="2">§ 2.</num><heading> Validity, irrevocability, and enforcement of agreements to arbitrate</heading><content>
+<p>A written provision in any maritime transaction to settle by arbitration a controversy shall be valid, irrevocable, and enforceable, save as otherwise provided in <ref href="/us/usc/t9/ch4">chapter 4</ref>.</p>
+</content><sourceCredit>(<ref href="/us/act/1947-07-30/ch392">July 30, 1947, ch. 392</ref>, <ref href="/us/stat/61/670">61 Stat. 670</ref>; <ref href="/us/pl/117/90/s3">Pub. L. 117–90, § 3</ref>, <date date="2022-03-03">Mar. 3, 2022</date>, <ref href="/us/stat/136/28">136 Stat. 28</ref>.)</sourceCredit>
+<notes type="uscNote">
+<note role="crossHeading" topic="editorialNotes"><heading><b>Editorial Notes</b></heading></note>
+<note topic="amendments"><heading>Amendments</heading><p>2022—<ref href="/us/pl/117/90">Pub. L. 117–90</ref> inserted “or as otherwise provided in chapter 4”.</p>
+<quotedContent><section><num>§ 99.</num><content>A quoted section inside a note is not an article.</content></section></quotedContent></note>
+</notes>
+</section>
+<section identifier="/us/usc/t9/s3" status="repealed"><num value="3">§ 3.</num><heading> Repealed. Pub. L. 99–999, § 1, Jan. 1, 2099</heading></section>
+</chapter>
+<chapter identifier="/us/usc/t9/ch4"><num value="4">CHAPTER 4—</num><heading>ARBITRATION OF DISPUTES INVOLVING SEXUAL ASSAULT AND SEXUAL HARASSMENT</heading>
+<subchapter identifier="/us/usc/t9/ch4/schI"><num value="I">SUBCHAPTER I—</num><heading>DEFINITIONS</heading>
+<section identifier="/us/usc/t9/s401"><num value="401">§ 401.</num><heading> Definitions</heading><chapeau>In this chapter:</chapeau>
+<paragraph identifier="/us/usc/t9/s401/1"><num value="1">(1)</num><heading> <inline class="small-caps">Predispute arbitration agreement</inline>.—</heading><content>The term “predispute arbitration agreement” means any agreement to arbitrate a dispute that had not yet arisen.</content></paragraph>
+<paragraph identifier="/us/usc/t9/s401/2"><num value="2">(2)</num><heading> <inline class="small-caps">Sexual assault dispute</inline>.—</heading><content>The term “sexual assault dispute” means a dispute involving a nonconsensual sexual act as defined in <ref href="/us/usc/t18/s2246">section 2246 of title 18</ref>.</content></paragraph>
+</section>
+<section identifier="/us/usc/t9/s402"><num value="402">§ 402.</num><heading> No validity or enforceability</heading>
+<subsection identifier="/us/usc/t9/s402/a"><num value="a">(a)</num><heading> In general</heading><chapeau>Notwithstanding any other provision of this title—</chapeau>
+<paragraph identifier="/us/usc/t9/s402/a/1"><num value="1">(1)</num><content>no predispute arbitration agreement shall be valid; and</content></paragraph>
+<paragraph identifier="/us/usc/t9/s402/a/2"><num value="2">(2)</num><content>no predispute joint-action waiver shall be valid,</content></paragraph>
+<continuation>with respect to a case under <ref href="/us/usc/t9/s401">section 401</ref>.</continuation>
+</subsection>
+<subsection identifier="/us/usc/t9/s402/b"><num value="b">(b)</num><heading> Determination of applicability</heading><content>An issue as to whether this chapter applies shall be determined by a court.</content></subsection>
+<sourceCredit>(Added <ref href="/us/pl/117/90/s2/a">Pub. L. 117–90, § 2(a)</ref>, <date date="2022-03-03">Mar. 3, 2022</date>, <ref href="/us/stat/136/26">136 Stat. 26</ref>.)</sourceCredit>
+</section>
+</subchapter>
+</chapter>
+</title>
+</main>
+</uscDoc>

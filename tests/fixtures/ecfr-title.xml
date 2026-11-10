@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Shaped after the eCFR versioner full XML (Title 40), trimmed; public domain. -->
+<ECFR>
+<VOLUME N="1" AMDDATE="2026-01-01"/>
+<DIV1 N="40" TYPE="TITLE">
+<HEAD>Title 40—Protection of Environment</HEAD>
+<DIV3 N="I" TYPE="CHAPTER">
+<HEAD> CHAPTER I—ENVIRONMENTAL PROTECTION AGENCY</HEAD>
+<DIV5 N="141" TYPE="PART">
+<HEAD>PART 141—NATIONAL PRIMARY DRINKING WATER REGULATIONS</HEAD>
+<AUTH><HED>Authority:</HED><PSPACE>42 U.S.C. 300f, 300g-1.</PSPACE></AUTH>
+<SOURCE><HED>Source:</HED><PSPACE>40 FR 59570, Dec. 24, 1975, unless otherwise noted.</PSPACE></SOURCE>
+<DIV6 N="I" TYPE="SUBPART">
+<HEAD>Subpart I—Control of Lead and Copper</HEAD>
+<DIV8 N="141.86" TYPE="SECTION">
+<HEAD>§ 141.86   Monitoring requirements for lead and copper in tap water.</HEAD>
+<P>(a) <I>Sample site location.</I> (1) Each water system shall complete a materials evaluation of its distribution system.</P>
+<P>(i) Sites served by a lead service line.</P>
+<P>(ii) Sites that contain lead pipes.</P>
+<P>(2) A system shall follow § 141.84 and 42 U.S.C. 300g-1 when it selects sites.</P>
+<P>Unlabeled text continues paragraph (a)(2).</P>
+<P>(b) <I>Sample collection.</I></P>
+<P>(1) Samples shall be collected as provided in 40 CFR 141.89.</P>
+<CITA TYPE="N">[56 FR 26548, June 7, 1991, as amended at 89 FR 86775, Oct. 30, 2024]</CITA>
+</DIV8>
+<DIV8 N="141.87" TYPE="SECTION">
+<HEAD>§ 141.87   [Reserved]</HEAD>
+</DIV8>
+</DIV6>
+<DIV9 N="Appendix A to Part 141" TYPE="APPENDIX">
+<HEAD>Appendix A to Part 141—Alternative Testing Methods</HEAD>
+<P>The following methods are approved.</P>
+<GPOTABLE><TTITLE>Methods</TTITLE><ROW><ENT>Lead</ENT><ENT>Method 200.8</ENT></ROW></GPOTABLE>
+</DIV9>
+</DIV5>
+</DIV3>
+</DIV1>
+</ECFR>

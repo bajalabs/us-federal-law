@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "us-federal-law: the in-force US federal law stack as structured data"
+message: "If you use this dataset, please cite it as below."
+type: dataset
+authors:
+  - name: "Baja Labs"
+repository-code: "https://github.com/bajalabs/us-federal-law"
+license: CC0-1.0
+version: "1.0.0"
+date-released: "2026-11-10"
+abstract: >-
+  The Constitution of the United States, the United States Code (OLRC release
+  point 119-138, titles and appendices), the Electronic Code of Federal Regulations
+  (49 titles as of 2026-11-06) and the Public Laws of the 118th and 119th
+  Congresses, mapped into one SQLite schema of laws, divisions, articles, parts,
+  annotations and cross references, with full-text search. Built from the
+  official sources with a sha256 manifest for every file.
+keywords:
+  - United States Code
+  - Code of Federal Regulations
+  - Constitution of the United States
+  - Public Laws
+  - legal data
+  - open data
+  - SQLite

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Trimmed from the OLRC USLM release point 119-138 (Title 28 Appendix, Title 18 Appendix), public domain. -->
+<uscDoc xmlns="http://xml.house.gov/schemas/uslm/1.0" identifier="/us/usc/t28a">
+<meta><docNumber>28a</docNumber></meta>
+<main>
+<appendix identifier="/us/usc/t28a"><num value="28a">Title 28—APPENDIX</num><heading>JUDICIAL PERSONNEL FINANCIAL DISCLOSURE REQUIREMENTS</heading>
+<courtRules identifier="/us/usc/t28a/courtRules/Civil"><heading>FEDERAL RULES OF CIVIL PROCEDURE</heading>
+<title identifier="/us/usc/t28a/courtRules/Civil/tI"><num value="I">TITLE I.</num><heading>SCOPE OF RULES; FORM OF ACTION</heading>
+<courtRule identifier="/us/usc/t28a/courtRules/Civil/rule1"><num value="1">Rule 1.</num><heading> Scope and Purpose</heading><content>These rules govern the procedure in all civil actions and proceedings in the United States district courts.</content></courtRule>
+</title>
+<courtRule identifier="/us/usc/t28a/courtRules/Civil/rule1"><num value="1">Rule 1.</num><heading> Review of Social Security Decisions Under 42 U.S.C. § 405(g)</heading><content>These rules govern an action under 42 U.S.C. § 405(g).</content></courtRule>
+</courtRules>
+<compiledAct><heading>INTERSTATE AGREEMENT ON DETAINERS</heading>
+<section identifier="/us/usc/t18a/pl/91/538/s1"><num value="1">§ 1.</num><heading> Short title</heading><content>This Act may be cited as the “Interstate Agreement on Detainers Act”.</content></section>
+</compiledAct>
+<compiledAct><heading>CLASSIFIED INFORMATION PROCEDURES ACT</heading>
+<section identifier="/us/usc/t18a/pl/96/456/s1"><num value="1">§ 1.</num><heading> Definitions</heading><content>For the purposes of this Act, “classified information” means any information or material that has been determined to require protection.</content></section>
+</compiledAct>
+</appendix>
+</main>
+</uscDoc>

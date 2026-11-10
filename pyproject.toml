@@ -1,0 +1,19 @@
+[project]
+name = "us-federal-law"
+version = "1.0.0"
+description = "The in-force US federal law stack (Constitution, US Code, eCFR, Public Laws) as structured, searchable SQLite."
+readme = "README.md"
+requires-python = ">=3.12"
+license = "MIT"
+authors = [{ name = "Baja Labs" }]
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/bajalabs/us-federal-law"
+
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["usfl"]

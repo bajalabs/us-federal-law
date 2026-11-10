@@ -1,0 +1,22 @@
+name: Bug report
+description: The code fails or produces a wrong result.
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: The command you ran and what you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: output
+    attributes:
+      label: Output
+      description: The error or the relevant lines of output.
+      render: text
+  - type: input
+    id: env
+    attributes:
+      label: Environment
+      description: OS, `python3 --version`, `sqlite3 --version`, release or commit.

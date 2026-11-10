@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Shaped after GovInfo PLAW USLM (Public Law 118-42), trimmed; public domain. -->
+<pLaw xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<meta><dc:title>Public Law 118–42: Making consolidated appropriations for the fiscal year ending September 30, 2024, and for other purposes.</dc:title>
+<dc:type>Public Law</dc:type><docNumber>42</docNumber>
+<citableAs>Public Law 118–42</citableAs><citableAs>138 Stat. 25</citableAs>
+<approvedDate>2024-03-09</approvedDate><congress>118</congress><publicPrivate>public</publicPrivate>
+</meta>
+<main>
+<longTitle><docTitle>An Act</docTitle><officialTitle>Making consolidated appropriations for the fiscal year ending September 30, 2024, and for other purposes.<sidenote><p><approvedDate date="2024-03-09">Mar. 9, 2024</approvedDate></p></sidenote></officialTitle></longTitle>
+<section identifier="/us/pl/118/42/s1"><num value="1">SECTION 1. </num><heading>SHORT TITLE.</heading><content>This Act may be cited as the “<shortTitle role="act">Consolidated Appropriations Act, 2024</shortTitle>”.</content></section>
+<division identifier="/us/pl/118/42/dA"><num value="A">DIVISION A—</num><heading>MILITARY CONSTRUCTION</heading>
+<title identifier="/us/pl/118/42/dA/tI"><num value="I">TITLE I</num><heading>DEPARTMENT OF DEFENSE</heading>
+<appropriations level="major"><heading>Department of Defense</heading></appropriations>
+<appropriations level="intermediate"><heading>Military Construction, Army</heading><content>For acquisition, construction, installation, and equipment of temporary or permanent public works, $2,022,775,000, to remain available until September 30, 2028.</content></appropriations>
+<section><num value="101"><inline>Sec. 101. </inline></num><sidenote><p>Contracts.</p></sidenote><content>None of the funds made available in this title shall be expended for payments under a cost-plus-a-fixed-fee contract.</content></section>
+</title>
+</division>
+<division identifier="/us/pl/118/42/dB"><num value="B">DIVISION B—</num><heading>AGRICULTURE</heading>
+<title identifier="/us/pl/118/42/dB/tI"><num value="I">TITLE I</num><heading>AGRICULTURAL PROGRAMS</heading>
+<section><num value="101"><inline>Sec. 101. </inline></num><content>Funds made available by this division may be used as provided in <ref href="/us/usc/t7/s2209b">section 2209b of title 7, United States Code</ref> and <ref href="/us/pl/118/5/s2">section 2 of Public Law 118–5</ref>.</content></section>
+</title>
+</division>
+</main>
+</pLaw>

@@ -1,0 +1,3312 @@
+{
+  "corpus": "plaw",
+  "publisher": "U.S. Government Publishing Office (GovInfo bulk data), Public and Private Laws",
+  "source_kind": "govinfo-plaw-uslm-xml",
+  "edition": {
+    "congresses": [
+      118,
+      119
+    ],
+    "date": "2026-11-10"
+  },
+  "index_url": "https://www.govinfo.gov/bulkdata/PLAW",
+  "files": [
+    {
+      "key": "118-1",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ1.xml",
+      "path": "plaw/118/PLAW-118publ1.xml",
+      "sort": "0118-00001",
+      "sha256": "4d534310af2e97818dead7c7907404ef597d86c47f94841d4a0ae1cb0ece91cb",
+      "bytes": 4205
+    },
+    {
+      "key": "118-2",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ2.xml",
+      "path": "plaw/118/PLAW-118publ2.xml",
+      "sort": "0118-00002",
+      "sha256": "396464c8bf016ea5b6993eae1a7f50f29c77d6034ba80efde0da2d19cd356a4c",
+      "bytes": 11986
+    },
+    {
+      "key": "118-3",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ3.xml",
+      "path": "plaw/118/PLAW-118publ3.xml",
+      "sort": "0118-00003",
+      "sha256": "a634c890e76862c50b7d9f6960dec969b47e0f6cad7d51d26afd92d7379dc0d3",
+      "bytes": 4155
+    },
+    {
+      "key": "118-4",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ4.xml",
+      "path": "plaw/118/PLAW-118publ4.xml",
+      "sort": "0118-00004",
+      "sha256": "a7d88c7ad59a61184c5a8681728d7d16e94b570bc76774abba75f320aa224a6d",
+      "bytes": 21430
+    },
+    {
+      "key": "118-5",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ5.xml",
+      "path": "plaw/118/PLAW-118publ5.xml",
+      "sort": "0118-00005",
+      "sha256": "16dfc0bc57dbdcd92601d9ea182ca2eef49917eb00e7d157df4246314a5ab618",
+      "bytes": 293608
+    },
+    {
+      "key": "118-6",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ6.xml",
+      "path": "plaw/118/PLAW-118publ6.xml",
+      "sort": "0118-00006",
+      "sha256": "8596768e975e3e37948fd67a5437379585c97ae0ae866453072a04e719efea16",
+      "bytes": 11446
+    },
+    {
+      "key": "118-7",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ7.xml",
+      "path": "plaw/118/PLAW-118publ7.xml",
+      "sort": "0118-00007",
+      "sha256": "420a46959538f977c4c76e7821b5264f651e9f7afbc3e956d589f95397e28a13",
+      "bytes": 5828
+    },
+    {
+      "key": "118-8",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ8.xml",
+      "path": "plaw/118/PLAW-118publ8.xml",
+      "sort": "0118-00008",
+      "sha256": "a03dd5880f471b9e5fc6f271888d6b6a85b41ca6de2265c192d67b3b10c0ff85",
+      "bytes": 8529
+    },
+    {
+      "key": "118-9",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ9.xml",
+      "path": "plaw/118/PLAW-118publ9.xml",
+      "sort": "0118-00009",
+      "sha256": "4294c4b07421cc5ed86f00ea9986de8ba1a80ba4693b5510c2513a84c68fdb7a",
+      "bytes": 6900
+    },
+    {
+      "key": "118-10",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ10.xml",
+      "path": "plaw/118/PLAW-118publ10.xml",
+      "sort": "0118-00010",
+      "sha256": "434a4c997bd93c3508dfb474441e3c1fb86d5e8131afb17b638000d30adfedf2",
+      "bytes": 27300
+    },
+    {
+      "key": "118-11",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ11.xml",
+      "path": "plaw/118/PLAW-118publ11.xml",
+      "sort": "0118-00011",
+      "sha256": "346266d9e89edc9f9f38e6064742df8083b63b7ce907bda6a167400d893919d3",
+      "bytes": 11070
+    },
+    {
+      "key": "118-12",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ12.xml",
+      "path": "plaw/118/PLAW-118publ12.xml",
+      "sort": "0118-00012",
+      "sha256": "6486603ba25adab0f4afe4ee83a620225fd4f1f575ff7249c901ea0d14f868e6",
+      "bytes": 5155
+    },
+    {
+      "key": "118-13",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ13.xml",
+      "path": "plaw/118/PLAW-118publ13.xml",
+      "sort": "0118-00013",
+      "sha256": "7666e745d59713f3c68706a16249216fc86c5f0d6bab34281740f1b1573f11f6",
+      "bytes": 39482
+    },
+    {
+      "key": "118-14",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ14.xml",
+      "path": "plaw/118/PLAW-118publ14.xml",
+      "sort": "0118-00014",
+      "sha256": "2c41bb240f04ff96ba6ede6564b28f93e90cc21dfb976dbbda2ba96e3fe82e76",
+      "bytes": 14839
+    },
+    {
+      "key": "118-15",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ15.xml",
+      "path": "plaw/118/PLAW-118publ15.xml",
+      "sort": "0118-00015",
+      "sha256": "0445713d63bfe77b888831954a45092e62baf21aa022f418d3f6d93ba59eee47",
+      "bytes": 224399
+    },
+    {
+      "key": "118-16",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ16.xml",
+      "path": "plaw/118/PLAW-118publ16.xml",
+      "sort": "0118-00016",
+      "sha256": "62ac2805bc1fbf9a60687001a888e6ee54f3690ee465918cd318b44f8e5c7136",
+      "bytes": 9886
+    },
+    {
+      "key": "118-17",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ17.xml",
+      "path": "plaw/118/PLAW-118publ17.xml",
+      "sort": "0118-00017",
+      "sha256": "b855267a7eeabb7b882471e4fc42303c294ff2955de422254cfce6d8757c6366",
+      "bytes": 5783
+    },
+    {
+      "key": "118-18",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ18.xml",
+      "path": "plaw/118/PLAW-118publ18.xml",
+      "sort": "0118-00018",
+      "sha256": "0ad2233fd595c7b5509336ea24fbb354238327471e0261282d33d25374a38a31",
+      "bytes": 19312
+    },
+    {
+      "key": "118-19",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ19.xml",
+      "path": "plaw/118/PLAW-118publ19.xml",
+      "sort": "0118-00019",
+      "sha256": "a6423f4093cea6b3eafdbb4360b166e2bba6378465e6996697cafb6cb8b87d82",
+      "bytes": 6929
+    },
+    {
+      "key": "118-20",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ20.xml",
+      "path": "plaw/118/PLAW-118publ20.xml",
+      "sort": "0118-00020",
+      "sha256": "2694bf682946e5077d4f52cebaf506cbdb5ec058f4d39529d51f9902a8e47ea3",
+      "bytes": 7134
+    },
+    {
+      "key": "118-21",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ21.xml",
+      "path": "plaw/118/PLAW-118publ21.xml",
+      "sort": "0118-00021",
+      "sha256": "36ff1720dad3432ee37a53143a5aa07c9023a5fe29663d7fcecc83edee12bbef",
+      "bytes": 18053
+    },
+    {
+      "key": "118-22",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ22.xml",
+      "path": "plaw/118/PLAW-118publ22.xml",
+      "sort": "0118-00022",
+      "sha256": "e96113a24482a36995db097008e7c23793ce85cb6444e579d582195809ec3eff",
+      "bytes": 111967
+    },
+    {
+      "key": "118-23",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ23.xml",
+      "path": "plaw/118/PLAW-118publ23.xml",
+      "sort": "0118-00023",
+      "sha256": "dca5eed83e3f7c8f1aec1894bda614a5f00dad5f40e2320c798660c941195e56",
+      "bytes": 21546
+    },
+    {
+      "key": "118-24",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ24.xml",
+      "path": "plaw/118/PLAW-118publ24.xml",
+      "sort": "0118-00024",
+      "sha256": "75c42c72d7a6f782dbd7d22458cfa17d0b0906d69903d33107be3aa86e504cf9",
+      "bytes": 5901
+    },
+    {
+      "key": "118-25",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ25.xml",
+      "path": "plaw/118/PLAW-118publ25.xml",
+      "sort": "0118-00025",
+      "sha256": "4f4c880f0afd89b5c681ba1fdaecfe083a8adf5978f6dbf6f134ab06d4181ed7",
+      "bytes": 15113
+    },
+    {
+      "key": "118-26",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ26.xml",
+      "path": "plaw/118/PLAW-118publ26.xml",
+      "sort": "0118-00026",
+      "sha256": "3f8d77904ceb6e8939f52d9cd4cac4810506b6c092d757c0f3e297ec91958190",
+      "bytes": 4624
+    },
+    {
+      "key": "118-27",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ27.xml",
+      "path": "plaw/118/PLAW-118publ27.xml",
+      "sort": "0118-00027",
+      "sha256": "511c627873dd6cda6a53bb11f48d44e4f9fd9781dc95d7eeaf8f9c1e6edd2ec2",
+      "bytes": 5570
+    },
+    {
+      "key": "118-28",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ28.xml",
+      "path": "plaw/118/PLAW-118publ28.xml",
+      "sort": "0118-00028",
+      "sha256": "74318bbe630b262366c7ee9297bd5c80d08714e663d67f1cd7255ada876eecc1",
+      "bytes": 4672
+    },
+    {
+      "key": "118-29",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ29.xml",
+      "path": "plaw/118/PLAW-118publ29.xml",
+      "sort": "0118-00029",
+      "sha256": "30cafb247ed5010ef56473fefbd140a7a09357acab5ffe95bcb4b41dea3250aa",
+      "bytes": 4699
+    },
+    {
+      "key": "118-30",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ30.xml",
+      "path": "plaw/118/PLAW-118publ30.xml",
+      "sort": "0118-00030",
+      "sha256": "07e1fc50c42bcf1f0fc89b402a933710760455564b9cc8cfc9827de5c8c325e3",
+      "bytes": 4687
+    },
+    {
+      "key": "118-31",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ31.xml",
+      "path": "plaw/118/PLAW-118publ31.xml",
+      "sort": "0118-00031",
+      "sha256": "3fc2554049cda876883570dd88f37fb3ace5d62b3c31163034cfa3d3310f94cd",
+      "bytes": 10529034
+    },
+    {
+      "key": "118-32",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ32.xml",
+      "path": "plaw/118/PLAW-118publ32.xml",
+      "sort": "0118-00032",
+      "sha256": "aade9a064e4826c5901df137547cf76955abde0d28355e8f0c41c5ac4d4c0729",
+      "bytes": 8290
+    },
+    {
+      "key": "118-33",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ33.xml",
+      "path": "plaw/118/PLAW-118publ33.xml",
+      "sort": "0118-00033",
+      "sha256": "6b301714430623180e605484b304e9ddd3e68c02e2292da6f4d5945e940f5c9d",
+      "bytes": 10873
+    },
+    {
+      "key": "118-34",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ34.xml",
+      "path": "plaw/118/PLAW-118publ34.xml",
+      "sort": "0118-00034",
+      "sha256": "7e5fa8cbc754e6f178646d2471385385e46d9f75d0e6756de2e76d5f23e042d4",
+      "bytes": 44630
+    },
+    {
+      "key": "118-35",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ35.xml",
+      "path": "plaw/118/PLAW-118publ35.xml",
+      "sort": "0118-00035",
+      "sha256": "ecbac421bfe05bc2e6fb92322278bd52a8120641ddf339af512cddb40f273f4e",
+      "bytes": 43867
+    },
+    {
+      "key": "118-36",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ36.xml",
+      "path": "plaw/118/PLAW-118publ36.xml",
+      "sort": "0118-00036",
+      "sha256": "a818d03337db51a36f4f7726d600a458fe37c2f478ce6ab7cb36e0b1aefe8984",
+      "bytes": 9542
+    },
+    {
+      "key": "118-37",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ37.xml",
+      "path": "plaw/118/PLAW-118publ37.xml",
+      "sort": "0118-00037",
+      "sha256": "866668e43630d385df4883caf28e8f1d2f7de35d9f98e4eaac76602a6133e630",
+      "bytes": 10119
+    },
+    {
+      "key": "118-38",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ38.xml",
+      "path": "plaw/118/PLAW-118publ38.xml",
+      "sort": "0118-00038",
+      "sha256": "3dea9080c813e978414fb997fba126e19d28b4692e4271faea10ec681289f6c3",
+      "bytes": 22892
+    },
+    {
+      "key": "118-39",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ39.xml",
+      "path": "plaw/118/PLAW-118publ39.xml",
+      "sort": "0118-00039",
+      "sha256": "eeab2158bb275ec8d8cbc5574d1ce0fcad98290f91f277686349fa301d7242fd",
+      "bytes": 7620
+    },
+    {
+      "key": "118-40",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ40.xml",
+      "path": "plaw/118/PLAW-118publ40.xml",
+      "sort": "0118-00040",
+      "sha256": "ab9fc8346dd9b9b2090e209731f27d3c3b71c7e30cf6ee14db96cbf511170442",
+      "bytes": 18152
+    },
+    {
+      "key": "118-41",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ41.xml",
+      "path": "plaw/118/PLAW-118publ41.xml",
+      "sort": "0118-00041",
+      "sha256": "944648d90af7e411e154709bc985481f4bb272b69463e3fee2a0c3271bf90e08",
+      "bytes": 45748
+    },
+    {
+      "key": "118-42",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ42.xml",
+      "path": "plaw/118/PLAW-118publ42.xml",
+      "sort": "0118-00042",
+      "sha256": "563491684e2c60d3f80b6cc642c2bc92b9c91b08cbbcc5270de22d436ae80ddf",
+      "bytes": 2586115
+    },
+    {
+      "key": "118-43",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ43.xml",
+      "path": "plaw/118/PLAW-118publ43.xml",
+      "sort": "0118-00043",
+      "sha256": "6245f257bdb721e29b0407d2921018d5b934b95ba1127b3fe3fd8f88cd65bf7b",
+      "bytes": 7361
+    },
+    {
+      "key": "118-44",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ44.xml",
+      "path": "plaw/118/PLAW-118publ44.xml",
+      "sort": "0118-00044",
+      "sha256": "f754322c47402eba8b3ed117ac943c5dd97e8ebc6002cd6f1af6a576591e8b03",
+      "bytes": 7813
+    },
+    {
+      "key": "118-45",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ45.xml",
+      "path": "plaw/118/PLAW-118publ45.xml",
+      "sort": "0118-00045",
+      "sha256": "d0362afd716bbb37d1fd1bc3024867c2627b37ab14bce415c89189c616150c92",
+      "bytes": 10905
+    },
+    {
+      "key": "118-46",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ46.xml",
+      "path": "plaw/118/PLAW-118publ46.xml",
+      "sort": "0118-00046",
+      "sha256": "8744dba34d4826377c4262c86e4454762ab0899bd1f72da0cb5a0a4c70e3a388",
+      "bytes": 6115
+    },
+    {
+      "key": "118-47",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ47.xml",
+      "path": "plaw/118/PLAW-118publ47.xml",
+      "sort": "0118-00047",
+      "sha256": "c1881917117e38de52ebd13aef206516376a3f53d07a69e1a84b10dd7822907b",
+      "bytes": 2373860
+    },
+    {
+      "key": "118-48",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ48.xml",
+      "path": "plaw/118/PLAW-118publ48.xml",
+      "sort": "0118-00048",
+      "sha256": "91b44f3b9e041b377082e862ab9d502302817ede8555f8ff36971be9f9445581",
+      "bytes": 10259
+    },
+    {
+      "key": "118-49",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ49.xml",
+      "path": "plaw/118/PLAW-118publ49.xml",
+      "sort": "0118-00049",
+      "sha256": "fda5e0e145b606b5d8bf62f78197ee58353c7a963d43688aebd256907b99ddd2",
+      "bytes": 273890
+    },
+    {
+      "key": "118-50",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ50.xml",
+      "path": "plaw/118/PLAW-118publ50.xml",
+      "sort": "0118-00050",
+      "sha256": "9bbe459e967a14803435bd970e0e27fcb2767caf4b73a23e041b8459d506d28a",
+      "bytes": 772982
+    },
+    {
+      "key": "118-51",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ51.xml",
+      "path": "plaw/118/PLAW-118publ51.xml",
+      "sort": "0118-00051",
+      "sha256": "5c131ccbc0e05d5efe279b3ad8b12ada6f20723e3b2c5208039861bd5bd9d951",
+      "bytes": 9953
+    },
+    {
+      "key": "118-52",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ52.xml",
+      "path": "plaw/118/PLAW-118publ52.xml",
+      "sort": "0118-00052",
+      "sha256": "7a46c3f6e77911f7a2ace5266dfbac18962ee51c30539f4c8a7268c104bb0bec",
+      "bytes": 5129
+    },
+    {
+      "key": "118-53",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ53.xml",
+      "path": "plaw/118/PLAW-118publ53.xml",
+      "sort": "0118-00053",
+      "sha256": "fc1bc6bf350397a05dfc0607fcf54b34b3cc6d98a0c4a6e18ec1e25ad65fd2ca",
+      "bytes": 5048
+    },
+    {
+      "key": "118-54",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ54.xml",
+      "path": "plaw/118/PLAW-118publ54.xml",
+      "sort": "0118-00054",
+      "sha256": "bf06c40545c0d5cc6afd3a2cc52a122a9fd6a714727380e8feb96fcb747e0a94",
+      "bytes": 5167
+    },
+    {
+      "key": "118-55",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ55.xml",
+      "path": "plaw/118/PLAW-118publ55.xml",
+      "sort": "0118-00055",
+      "sha256": "63f334bd982c457c3c6016884ddd725460afc02391581aef504aad1bc800c1fe",
+      "bytes": 5451
+    },
+    {
+      "key": "118-56",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ56.xml",
+      "path": "plaw/118/PLAW-118publ56.xml",
+      "sort": "0118-00056",
+      "sha256": "8c2fae493dc59d4fc843690194cf72c255ba7173e51b4bff47675b012b2cda7f",
+      "bytes": 5046
+    },
+    {
+      "key": "118-57",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ57.xml",
+      "path": "plaw/118/PLAW-118publ57.xml",
+      "sort": "0118-00057",
+      "sha256": "967ebb1392f69df950450597ecbf78a81f2929cf9408c85860a865044d886f09",
+      "bytes": 5192
+    },
+    {
+      "key": "118-58",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ58.xml",
+      "path": "plaw/118/PLAW-118publ58.xml",
+      "sort": "0118-00058",
+      "sha256": "ae58f11855596b99350079f23167ad9afbd9ad3de140944f5348364145cd4be1",
+      "bytes": 4990
+    },
+    {
+      "key": "118-59",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ59.xml",
+      "path": "plaw/118/PLAW-118publ59.xml",
+      "sort": "0118-00059",
+      "sha256": "d58894d4cf935c47d149d6cbf9170b5fa6ea8b46f0d41f21a4341b7a6e1337c1",
+      "bytes": 29136
+    },
+    {
+      "key": "118-60",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ60.xml",
+      "path": "plaw/118/PLAW-118publ60.xml",
+      "sort": "0118-00060",
+      "sha256": "bcc7fb58d39829d42ec59473b48b8072be8827e9749faab51e66f7ba287448dc",
+      "bytes": 21632
+    },
+    {
+      "key": "118-61",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ61.xml",
+      "path": "plaw/118/PLAW-118publ61.xml",
+      "sort": "0118-00061",
+      "sha256": "d7084e046bd21fcee4f0b0efd21c9c1e60ac2b3a36c4c9be723dc774f7bfb3fb",
+      "bytes": 4633
+    },
+    {
+      "key": "118-62",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ62.xml",
+      "path": "plaw/118/PLAW-118publ62.xml",
+      "sort": "0118-00062",
+      "sha256": "8b4e5617618fcafa879495dfc020bc2f82713f58f65fc46cd6945230a63b440f",
+      "bytes": 24148
+    },
+    {
+      "key": "118-63",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ63.xml",
+      "path": "plaw/118/PLAW-118publ63.xml",
+      "sort": "0118-00063",
+      "sha256": "7e1d782b0986269bd14bb23edc0675cccf7f5e78013a099e3cdf9c1cf91d3d58",
+      "bytes": 3554999
+    },
+    {
+      "key": "118-64",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ64.xml",
+      "path": "plaw/118/PLAW-118publ64.xml",
+      "sort": "0118-00064",
+      "sha256": "fd6b9d43f0bfb7f15f14e0d999429d21c6f02683886e85a1857dc89fcd13639a",
+      "bytes": 27044
+    },
+    {
+      "key": "118-65",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ65.xml",
+      "path": "plaw/118/PLAW-118publ65.xml",
+      "sort": "0118-00065",
+      "sha256": "2993200845fce962b84c2ba8f428acf500e829f51b1aed05a5c0733fc6fcbecc",
+      "bytes": 38820
+    },
+    {
+      "key": "118-66",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ66.xml",
+      "path": "plaw/118/PLAW-118publ66.xml",
+      "sort": "0118-00066",
+      "sha256": "3474567177704d1846601428b1030c750c245b9ead38c7c1894595675065dd6b",
+      "bytes": 33025
+    },
+    {
+      "key": "118-67",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ67.xml",
+      "path": "plaw/118/PLAW-118publ67.xml",
+      "sort": "0118-00067",
+      "sha256": "52a01e34dc67fbe311824f68d8296d9eb09c896c6b2a8f6fdb8cb2cf1cb17b46",
+      "bytes": 304719
+    },
+    {
+      "key": "118-68",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ68.xml",
+      "path": "plaw/118/PLAW-118publ68.xml",
+      "sort": "0118-00068",
+      "sha256": "3bd8b589f82aa4738a8c18ef797016cf6aa9e8db66086547e9cadaf9c91f1255",
+      "bytes": 8976
+    },
+    {
+      "key": "118-69",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ69.xml",
+      "path": "plaw/118/PLAW-118publ69.xml",
+      "sort": "0118-00069",
+      "sha256": "8402210c012b5aa73d32b75e322713a0cbc68b7221ff14bd2688c381b5d6a4e7",
+      "bytes": 6623
+    },
+    {
+      "key": "118-70",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ70.xml",
+      "path": "plaw/118/PLAW-118publ70.xml",
+      "sort": "0118-00070",
+      "sha256": "741e185355ede5f16b17ca6cc9722a574a32db5321e6757f55634fe5832bbe2f",
+      "bytes": 26248
+    },
+    {
+      "key": "118-71",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ71.xml",
+      "path": "plaw/118/PLAW-118publ71.xml",
+      "sort": "0118-00071",
+      "sha256": "909fb7fdd6580af3d39854a6190d4e99d13f054a5a05b8c7109cacd102a6b05c",
+      "bytes": 72532
+    },
+    {
+      "key": "118-72",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ72.xml",
+      "path": "plaw/118/PLAW-118publ72.xml",
+      "sort": "0118-00072",
+      "sha256": "c3ba788977999d6f20045a5620d0b163fe38a98e5125f1b1593bc7e9fcdacba9",
+      "bytes": 6002
+    },
+    {
+      "key": "118-73",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ73.xml",
+      "path": "plaw/118/PLAW-118publ73.xml",
+      "sort": "0118-00073",
+      "sha256": "3b845e06012dd3bc3c56e757591f24974d052ce3e39c310ba0114b7608aa1769",
+      "bytes": 6095
+    },
+    {
+      "key": "118-74",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ74.xml",
+      "path": "plaw/118/PLAW-118publ74.xml",
+      "sort": "0118-00074",
+      "sha256": "a64375a808c1eff9032f11e388d0d0ad32d125c234f97b43553387b7e67f7394",
+      "bytes": 13565
+    },
+    {
+      "key": "118-75",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ75.xml",
+      "path": "plaw/118/PLAW-118publ75.xml",
+      "sort": "0118-00075",
+      "sha256": "2f0a21fc5a2a1f7bff9996e1cbc34533f7f444f1a03e3bfa5b1defc75aaf3efa",
+      "bytes": 5031
+    },
+    {
+      "key": "118-76",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ76.xml",
+      "path": "plaw/118/PLAW-118publ76.xml",
+      "sort": "0118-00076",
+      "sha256": "36c6ff3e8023ec89e55df9c6589e3d3d191fefddb03d3a90a9e3de85158215a1",
+      "bytes": 9977
+    },
+    {
+      "key": "118-77",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ77.xml",
+      "path": "plaw/118/PLAW-118publ77.xml",
+      "sort": "0118-00077",
+      "sha256": "54331f7c1f27d6d2363c348086ba1da14a0273126849ea40a472dfd4aa80cdab",
+      "bytes": 7233
+    },
+    {
+      "key": "118-78",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ78.xml",
+      "path": "plaw/118/PLAW-118publ78.xml",
+      "sort": "0118-00078",
+      "sha256": "25cf907dae87230323953c2c51ebd282bbb00534de93cb4899adfbf526186921",
+      "bytes": 21940
+    },
+    {
+      "key": "118-79",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ79.xml",
+      "path": "plaw/118/PLAW-118publ79.xml",
+      "sort": "0118-00079",
+      "sha256": "db289a144502e25e0de644f95249121ffb1af0a1840ec0bf2edd68b744b005be",
+      "bytes": 14658
+    },
+    {
+      "key": "118-80",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ80.xml",
+      "path": "plaw/118/PLAW-118publ80.xml",
+      "sort": "0118-00080",
+      "sha256": "202ca096a2bcf6455a86a78a6e7db50e8b38399e29436c3112fb06cfe532561d",
+      "bytes": 12722
+    },
+    {
+      "key": "118-81",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ81.xml",
+      "path": "plaw/118/PLAW-118publ81.xml",
+      "sort": "0118-00081",
+      "sha256": "cfae3b82f9a657db9c20a28cf5dc3c74aaf351bd86f2eed67cea4944c07ca5b5",
+      "bytes": 7311
+    },
+    {
+      "key": "118-82",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ82.xml",
+      "path": "plaw/118/PLAW-118publ82.xml",
+      "sort": "0118-00082",
+      "sha256": "fd0be777f82af510afa2c1a650a215532bbc17903b2a8c2439dcd4d185db90f6",
+      "bytes": 12506
+    },
+    {
+      "key": "118-83",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ83.xml",
+      "path": "plaw/118/PLAW-118publ83.xml",
+      "sort": "0118-00083",
+      "sha256": "bb92f27c1f6aaf5ed5f57dc74cb250f3603978642dce5fd21aecd24cbc4e2bbf",
+      "bytes": 140419
+    },
+    {
+      "key": "118-84",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ84.xml",
+      "path": "plaw/118/PLAW-118publ84.xml",
+      "sort": "0118-00084",
+      "sha256": "b9c7f0448fb2bde45e6f8b5561302c653b0bd1c05ceed103ad73589cb16b9d4e",
+      "bytes": 11743
+    },
+    {
+      "key": "118-85",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ85.xml",
+      "path": "plaw/118/PLAW-118publ85.xml",
+      "sort": "0118-00085",
+      "sha256": "5f85d2274c6cac32d1df6be9d9d830d460744d756f70ee6cb672e43767cbe317",
+      "bytes": 15770
+    },
+    {
+      "key": "118-86",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ86.xml",
+      "path": "plaw/118/PLAW-118publ86.xml",
+      "sort": "0118-00086",
+      "sha256": "ac10cbe5a07f39f1b46500aa36f432768c7b4e785d8d77b9c901dacfa87c8b53",
+      "bytes": 6904
+    },
+    {
+      "key": "118-87",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ87.xml",
+      "path": "plaw/118/PLAW-118publ87.xml",
+      "sort": "0118-00087",
+      "sha256": "3cc8667642c6db084f3cf8378bd8f8cb27ed7a59aee7404e49dbff5e549fe5d4",
+      "bytes": 23956
+    },
+    {
+      "key": "118-88",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ88.xml",
+      "path": "plaw/118/PLAW-118publ88.xml",
+      "sort": "0118-00088",
+      "sha256": "95a3d1ec48093eed96743e507b42f76511ddc5f0889218b57e7828375c7dfd64",
+      "bytes": 17366
+    },
+    {
+      "key": "118-89",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ89.xml",
+      "path": "plaw/118/PLAW-118publ89.xml",
+      "sort": "0118-00089",
+      "sha256": "d50a16a8f56f96d27306563aa7923dddce59e7da71f3a22e20b7a672d242364b",
+      "bytes": 9030
+    },
+    {
+      "key": "118-90",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ90.xml",
+      "path": "plaw/118/PLAW-118publ90.xml",
+      "sort": "0118-00090",
+      "sha256": "f33beebe8f6befd94f8172fc6b1544e2dc5c71f92504586b7d77cfce9fd93f98",
+      "bytes": 6208
+    },
+    {
+      "key": "118-91",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ91.xml",
+      "path": "plaw/118/PLAW-118publ91.xml",
+      "sort": "0118-00091",
+      "sha256": "4f0d260a414c0e1c1166c580383f72acb72d572b219b65336bfb41626f1f53af",
+      "bytes": 6968
+    },
+    {
+      "key": "118-92",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ92.xml",
+      "path": "plaw/118/PLAW-118publ92.xml",
+      "sort": "0118-00092",
+      "sha256": "612e1508946c6038100985863193a4cdda9cf632940ef0e1a8ad947e1016cf9c",
+      "bytes": 23023
+    },
+    {
+      "key": "118-93",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ93.xml",
+      "path": "plaw/118/PLAW-118publ93.xml",
+      "sort": "0118-00093",
+      "sha256": "185fac222777c89519923b095d782b4a2e3e86539533fa3efbe73e626410738e",
+      "bytes": 6869
+    },
+    {
+      "key": "118-94",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ94.xml",
+      "path": "plaw/118/PLAW-118publ94.xml",
+      "sort": "0118-00094",
+      "sha256": "548f092dd971b1ae6787033330eb3f814a72ad2ac3a7be57a34e1d824f75c848",
+      "bytes": 6395
+    },
+    {
+      "key": "118-95",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ95.xml",
+      "path": "plaw/118/PLAW-118publ95.xml",
+      "sort": "0118-00095",
+      "sha256": "eea42d42baa391fcfc3f92d386f44a5ba0706233babfac146060819dd7cb29c7",
+      "bytes": 12833
+    },
+    {
+      "key": "118-96",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ96.xml",
+      "path": "plaw/118/PLAW-118publ96.xml",
+      "sort": "0118-00096",
+      "sha256": "c515ca2a536cdadfcc21d4db0bc2d90804dbfac6f005723857a91561baab6bea",
+      "bytes": 30036
+    },
+    {
+      "key": "118-97",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ97.xml",
+      "path": "plaw/118/PLAW-118publ97.xml",
+      "sort": "0118-00097",
+      "sha256": "b1787fa1b49255dad17bbb3347384d4bde30b09e1a887d0dc57cb9dd3ecb13dd",
+      "bytes": 8330
+    },
+    {
+      "key": "118-98",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ98.xml",
+      "path": "plaw/118/PLAW-118publ98.xml",
+      "sort": "0118-00098",
+      "sha256": "13f4fed8d6c5e8243e7b5a885bd69e625ad1df8db2a37cd11dc97b3f85127ef3",
+      "bytes": 19444
+    },
+    {
+      "key": "118-99",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ99.xml",
+      "path": "plaw/118/PLAW-118publ99.xml",
+      "sort": "0118-00099",
+      "sha256": "a4806fd8c0094a9e8428c5e69053528fe718199dff412ae881a18f601bc0a60e",
+      "bytes": 19249
+    },
+    {
+      "key": "118-100",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ100.xml",
+      "path": "plaw/118/PLAW-118publ100.xml",
+      "sort": "0118-00100",
+      "sha256": "aa06fe09ccdd2353f2ed701826049eba817c9f573e59878cebd7bc2e4df8b8c4",
+      "bytes": 4966
+    },
+    {
+      "key": "118-101",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ101.xml",
+      "path": "plaw/118/PLAW-118publ101.xml",
+      "sort": "0118-00101",
+      "sha256": "72c3e6e14fb51a30b12d9e64e1b37087fd41d2eb6ceaf69ae4270f2cd83b2731",
+      "bytes": 5085
+    },
+    {
+      "key": "118-102",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ102.xml",
+      "path": "plaw/118/PLAW-118publ102.xml",
+      "sort": "0118-00102",
+      "sha256": "939c4056fac5e69f68bc2385cde15ba8cd11e1d54dfd64cf0c95a816b9b7221e",
+      "bytes": 4973
+    },
+    {
+      "key": "118-103",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ103.xml",
+      "path": "plaw/118/PLAW-118publ103.xml",
+      "sort": "0118-00103",
+      "sha256": "1b2effd2e89f26fe58b07ae5d794b078a765dc8566486a70c86d007f11fb20f7",
+      "bytes": 15346
+    },
+    {
+      "key": "118-104",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ104.xml",
+      "path": "plaw/118/PLAW-118publ104.xml",
+      "sort": "0118-00104",
+      "sha256": "abe3e5da52865c4c538c4331381fae82fda105cc2b47ca2f3b370ca43d3f2d77",
+      "bytes": 6504
+    },
+    {
+      "key": "118-105",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ105.xml",
+      "path": "plaw/118/PLAW-118publ105.xml",
+      "sort": "0118-00105",
+      "sha256": "34586587a5203884d18854861223a05696a6bb7aa53e66dd52edd9fef153ba6b",
+      "bytes": 22608
+    },
+    {
+      "key": "118-106",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ106.xml",
+      "path": "plaw/118/PLAW-118publ106.xml",
+      "sort": "0118-00106",
+      "sha256": "66811c4938d2085314f1ef5dffefc4a805c6617a0335f762367b375a38e7a40c",
+      "bytes": 18490
+    },
+    {
+      "key": "118-107",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ107.xml",
+      "path": "plaw/118/PLAW-118publ107.xml",
+      "sort": "0118-00107",
+      "sha256": "640b1ee833134869c5673926d6e168db1b35feb120cb3592be0397f55af7d590",
+      "bytes": 12072
+    },
+    {
+      "key": "118-108",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ108.xml",
+      "path": "plaw/118/PLAW-118publ108.xml",
+      "sort": "0118-00108",
+      "sha256": "ed1f1141006b91ab9ed94a0240521cdf8cc6a75990b50378d846ba1881160462",
+      "bytes": 5551
+    },
+    {
+      "key": "118-109",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ109.xml",
+      "path": "plaw/118/PLAW-118publ109.xml",
+      "sort": "0118-00109",
+      "sha256": "bd3caf96a791e67896ee8e9f1a66e3bf79b2d877b3665573cf4e9ba3cdd365cf",
+      "bytes": 31961
+    },
+    {
+      "key": "118-110",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ110.xml",
+      "path": "plaw/118/PLAW-118publ110.xml",
+      "sort": "0118-00110",
+      "sha256": "bfe9b6209138ef7baaafc51e4e3a980aa677c6fddd7b93c57d37cbc770e42897",
+      "bytes": 5062
+    },
+    {
+      "key": "118-111",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ111.xml",
+      "path": "plaw/118/PLAW-118publ111.xml",
+      "sort": "0118-00111",
+      "sha256": "6bd745ce94678ec36d35404d0674cab0d6b7afcb31d65a8304376671ccb88036",
+      "bytes": 5013
+    },
+    {
+      "key": "118-112",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ112.xml",
+      "path": "plaw/118/PLAW-118publ112.xml",
+      "sort": "0118-00112",
+      "sha256": "de8a2c90b77b2acad8d498fc48e666127f28ff48828d283738eb28120c898f02",
+      "bytes": 4954
+    },
+    {
+      "key": "118-113",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ113.xml",
+      "path": "plaw/118/PLAW-118publ113.xml",
+      "sort": "0118-00113",
+      "sha256": "c891e9f4b8d2b1e7d21bd252f66fc3af8e55e0331c9b81eeaf63a6667eb37f01",
+      "bytes": 4999
+    },
+    {
+      "key": "118-114",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ114.xml",
+      "path": "plaw/118/PLAW-118publ114.xml",
+      "sort": "0118-00114",
+      "sha256": "af4330ea2c8d7aee24194617081aaf48cf2a75be8849df81a756446928761960",
+      "bytes": 7637
+    },
+    {
+      "key": "118-115",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ115.xml",
+      "path": "plaw/118/PLAW-118publ115.xml",
+      "sort": "0118-00115",
+      "sha256": "ac8e579f304dc77328b133e1850af13cbb917e9d2c29a7a187df4a17f8ab70b3",
+      "bytes": 4543
+    },
+    {
+      "key": "118-116",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ116.xml",
+      "path": "plaw/118/PLAW-118publ116.xml",
+      "sort": "0118-00116",
+      "sha256": "fe971426d00ef536154880952b62e8eb523958959d6384f6eb939f82d1f38727",
+      "bytes": 5033
+    },
+    {
+      "key": "118-117",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ117.xml",
+      "path": "plaw/118/PLAW-118publ117.xml",
+      "sort": "0118-00117",
+      "sha256": "bfdc91dae16cd5f811c7ed0c2ef4710c7a4595f8c1b3b5e0482b115f831d8e54",
+      "bytes": 122559
+    },
+    {
+      "key": "118-118",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ118.xml",
+      "path": "plaw/118/PLAW-118publ118.xml",
+      "sort": "0118-00118",
+      "sha256": "f9eddaf2eb22a16604f11f21d136fbd43a97d484d2eb3f9c067cfdceda8abb7d",
+      "bytes": 5071
+    },
+    {
+      "key": "118-119",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ119.xml",
+      "path": "plaw/118/PLAW-118publ119.xml",
+      "sort": "0118-00119",
+      "sha256": "3a39ac882934bca6a239f8ee85272c768884a0e0be8c8f4001b4675c447beae1",
+      "bytes": 5038
+    },
+    {
+      "key": "118-120",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ120.xml",
+      "path": "plaw/118/PLAW-118publ120.xml",
+      "sort": "0118-00120",
+      "sha256": "651552810aefb4b7a14e28156419121b45ae6a46cbb86464acfcebce8ec1e22a",
+      "bytes": 7088
+    },
+    {
+      "key": "118-121",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ121.xml",
+      "path": "plaw/118/PLAW-118publ121.xml",
+      "sort": "0118-00121",
+      "sha256": "b7590d83fa973adb6a9d7072c15f20edda46473899f66a762cdad21026a2e52c",
+      "bytes": 5074
+    },
+    {
+      "key": "118-122",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ122.xml",
+      "path": "plaw/118/PLAW-118publ122.xml",
+      "sort": "0118-00122",
+      "sha256": "d982e88aec84788bbb539c2524bfd523d332198ff47718fa5c468b513ac00fda",
+      "bytes": 5145
+    },
+    {
+      "key": "118-123",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ123.xml",
+      "path": "plaw/118/PLAW-118publ123.xml",
+      "sort": "0118-00123",
+      "sha256": "b5d37a8b726ed82770ffa4a34275be5523937b7f7cbdb3b156f2f1b870085a22",
+      "bytes": 14744
+    },
+    {
+      "key": "118-124",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ124.xml",
+      "path": "plaw/118/PLAW-118publ124.xml",
+      "sort": "0118-00124",
+      "sha256": "2bf64645d5edafc3d0766c26c17d4559b42594458e99fcd56fa80526ad7e6450",
+      "bytes": 10848
+    },
+    {
+      "key": "118-125",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ125.xml",
+      "path": "plaw/118/PLAW-118publ125.xml",
+      "sort": "0118-00125",
+      "sha256": "70dbaa3408bf4e4634fa14952198e328a0d6fb33f5784bc190dab28e6e48ee3e",
+      "bytes": 5060
+    },
+    {
+      "key": "118-126",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ126.xml",
+      "path": "plaw/118/PLAW-118publ126.xml",
+      "sort": "0118-00126",
+      "sha256": "4a2447ca7f093314f189cf7a89c1c9fae3e1d7d6ccbc92584a87139d64bc4187",
+      "bytes": 5077
+    },
+    {
+      "key": "118-127",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ127.xml",
+      "path": "plaw/118/PLAW-118publ127.xml",
+      "sort": "0118-00127",
+      "sha256": "064770e0d6a7064fcc96e500c08555ac2c64ac38a0668dcee72d316f5962dde6",
+      "bytes": 5032
+    },
+    {
+      "key": "118-128",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ128.xml",
+      "path": "plaw/118/PLAW-118publ128.xml",
+      "sort": "0118-00128",
+      "sha256": "d121c2a23c074a16c55d0a6c2525ccb910fa36efc64f60b52d3cc2ecc6f96c79",
+      "bytes": 4357
+    },
+    {
+      "key": "118-129",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ129.xml",
+      "path": "plaw/118/PLAW-118publ129.xml",
+      "sort": "0118-00129",
+      "sha256": "3da94dc0e0eef4b314f1c60d109b4b796de9212bfefa301add52da74a607fe05",
+      "bytes": 4993
+    },
+    {
+      "key": "118-130",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ130.xml",
+      "path": "plaw/118/PLAW-118publ130.xml",
+      "sort": "0118-00130",
+      "sha256": "5a6bfc13a60a23a993fbc572e7fd38ba2f0f3998def844958f80e1fce78fd7c1",
+      "bytes": 11302
+    },
+    {
+      "key": "118-131",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ131.xml",
+      "path": "plaw/118/PLAW-118publ131.xml",
+      "sort": "0118-00131",
+      "sha256": "d9192c9548e5d0a9235a60ad84c08928003b701b789c4957d227026d0941093a",
+      "bytes": 18832
+    },
+    {
+      "key": "118-132",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ132.xml",
+      "path": "plaw/118/PLAW-118publ132.xml",
+      "sort": "0118-00132",
+      "sha256": "1b685bf85f3f4276ecb7a5fbe5fbe551c6f44037a60c140c6eadd7b2e55e0316",
+      "bytes": 5109
+    },
+    {
+      "key": "118-133",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ133.xml",
+      "path": "plaw/118/PLAW-118publ133.xml",
+      "sort": "0118-00133",
+      "sha256": "a16e91c3ed39bd1e10db94a622a3fc477617e4d06974416104a5a22da3a9643d",
+      "bytes": 4954
+    },
+    {
+      "key": "118-134",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ134.xml",
+      "path": "plaw/118/PLAW-118publ134.xml",
+      "sort": "0118-00134",
+      "sha256": "761ce46c36ac943a0ce5754ef5601f574e6a228c57227ce56286a794eb41eb3d",
+      "bytes": 7224
+    },
+    {
+      "key": "118-135",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ135.xml",
+      "path": "plaw/118/PLAW-118publ135.xml",
+      "sort": "0118-00135",
+      "sha256": "7abbb6614ed88d331f625cdd59dfa6980591f8c3b135e41b4f9e5afdd9dc5a3c",
+      "bytes": 5130
+    },
+    {
+      "key": "118-136",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ136.xml",
+      "path": "plaw/118/PLAW-118publ136.xml",
+      "sort": "0118-00136",
+      "sha256": "75d31b8cf6934a981bf2f27c43127d565cdc87f6568ab483cffa1c05996c11a3",
+      "bytes": 4991
+    },
+    {
+      "key": "118-137",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ137.xml",
+      "path": "plaw/118/PLAW-118publ137.xml",
+      "sort": "0118-00137",
+      "sha256": "9400f7a2fe7d704afef22ee819d4aed19889b1d556cd4996312fefba826e7bf1",
+      "bytes": 10046
+    },
+    {
+      "key": "118-138",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ138.xml",
+      "path": "plaw/118/PLAW-118publ138.xml",
+      "sort": "0118-00138",
+      "sha256": "2bd592fa8732f44c27195263591bae71a09ee446add8107ee93c6cbaca4a78dc",
+      "bytes": 29563
+    },
+    {
+      "key": "118-139",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ139.xml",
+      "path": "plaw/118/PLAW-118publ139.xml",
+      "sort": "0118-00139",
+      "sha256": "c94429a26fc1d6e012b3843ce5156ac747db65ebbbfec9deaee2098b2109aac4",
+      "bytes": 7781
+    },
+    {
+      "key": "118-140",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ140.xml",
+      "path": "plaw/118/PLAW-118publ140.xml",
+      "sort": "0118-00140",
+      "sha256": "8f2e3b4996550738d36f7c4e4892ca799499eaf593b69c65db9c7eb57015851d",
+      "bytes": 16845
+    },
+    {
+      "key": "118-141",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ141.xml",
+      "path": "plaw/118/PLAW-118publ141.xml",
+      "sort": "0118-00141",
+      "sha256": "286360653132df1e5e1340c0147c1cf68f209562811395e4ad1f33df25d21759",
+      "bytes": 7968
+    },
+    {
+      "key": "118-142",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ142.xml",
+      "path": "plaw/118/PLAW-118publ142.xml",
+      "sort": "0118-00142",
+      "sha256": "1e1f0164b148eb5100618ceb125d6b9d44ce1d251c2344f09cdfe9851b9937e9",
+      "bytes": 5488
+    },
+    {
+      "key": "118-143",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ143.xml",
+      "path": "plaw/118/PLAW-118publ143.xml",
+      "sort": "0118-00143",
+      "sha256": "cc4ae1e72472ed3525f810484a58c0f60502b9daed7c14074daffe7a3e31511c",
+      "bytes": 29761
+    },
+    {
+      "key": "118-144",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ144.xml",
+      "path": "plaw/118/PLAW-118publ144.xml",
+      "sort": "0118-00144",
+      "sha256": "6f2dd65e2f198fc2e7ba3da857341b0a33a337052bd2f4983d65e15bc744b010",
+      "bytes": 32507
+    },
+    {
+      "key": "118-145",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ145.xml",
+      "path": "plaw/118/PLAW-118publ145.xml",
+      "sort": "0118-00145",
+      "sha256": "e8d22bce9cc780c253b4c35df0623906b4ee22648466631c350c0fd2402d9002",
+      "bytes": 9176
+    },
+    {
+      "key": "118-146",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ146.xml",
+      "path": "plaw/118/PLAW-118publ146.xml",
+      "sort": "0118-00146",
+      "sha256": "d3a6bae7315c7e32c0724e6a6b9790a6d7c5c78cd05a5905b1c49e853fed7d40",
+      "bytes": 7777
+    },
+    {
+      "key": "118-147",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ147.xml",
+      "path": "plaw/118/PLAW-118publ147.xml",
+      "sort": "0118-00147",
+      "sha256": "00bd01150d72ac4e6fd396c8a642a7c004acd0635ef3039bf421b4126ea498e3",
+      "bytes": 5362
+    },
+    {
+      "key": "118-148",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ148.xml",
+      "path": "plaw/118/PLAW-118publ148.xml",
+      "sort": "0118-00148",
+      "sha256": "5904eee5f62e2c7dc044913b792fe4fa03d44f1ce94b63f352f08fd93e8a094d",
+      "bytes": 14620
+    },
+    {
+      "key": "118-149",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ149.xml",
+      "path": "plaw/118/PLAW-118publ149.xml",
+      "sort": "0118-00149",
+      "sha256": "a7dc902eb47052c38846e54236a336d7921764e7fdac0ec537c8b954e32b369e",
+      "bytes": 19413
+    },
+    {
+      "key": "118-150",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ150.xml",
+      "path": "plaw/118/PLAW-118publ150.xml",
+      "sort": "0118-00150",
+      "sha256": "751bb7f5c46dc798b48f933674ac7f4e5411ed5310720d520b965316830ca439",
+      "bytes": 14846
+    },
+    {
+      "key": "118-151",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ151.xml",
+      "path": "plaw/118/PLAW-118publ151.xml",
+      "sort": "0118-00151",
+      "sha256": "3aacc361b571ed110d1fefc9864476d5d9a7b23d33970fba010167de6d826952",
+      "bytes": 5297
+    },
+    {
+      "key": "118-152",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ152.xml",
+      "path": "plaw/118/PLAW-118publ152.xml",
+      "sort": "0118-00152",
+      "sha256": "07d3ebbdf455135fd142d367123b14530bdadfe6d500945a3adacbb3ab429d57",
+      "bytes": 7425
+    },
+    {
+      "key": "118-153",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ153.xml",
+      "path": "plaw/118/PLAW-118publ153.xml",
+      "sort": "0118-00153",
+      "sha256": "6a52e29b6e7b59c765dc6c1b51de02b963a8bc98bf1649ff487daa2fda8c48ff",
+      "bytes": 20330
+    },
+    {
+      "key": "118-154",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ154.xml",
+      "path": "plaw/118/PLAW-118publ154.xml",
+      "sort": "0118-00154",
+      "sha256": "521a77099e66b5481124899319a2d0ad49bb208c934f29e0278bbb2d4a7fed65",
+      "bytes": 6970
+    },
+    {
+      "key": "118-155",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ155.xml",
+      "path": "plaw/118/PLAW-118publ155.xml",
+      "sort": "0118-00155",
+      "sha256": "a705496e650e03bceff57da89b3eb30fb8a50ac82090a858d8a2b63fc744b51d",
+      "bytes": 178879
+    },
+    {
+      "key": "118-156",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ156.xml",
+      "path": "plaw/118/PLAW-118publ156.xml",
+      "sort": "0118-00156",
+      "sha256": "1f4cba4fc7f4ad19d726fdd546afad29ea52576153be76cb0e9b6c149674c455",
+      "bytes": 20248
+    },
+    {
+      "key": "118-157",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ157.xml",
+      "path": "plaw/118/PLAW-118publ157.xml",
+      "sort": "0118-00157",
+      "sha256": "2b87d3219808fd4c86478f09449140862d7aa7b37faee7f1d508542e5299bbc8",
+      "bytes": 21595
+    },
+    {
+      "key": "118-158",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ158.xml",
+      "path": "plaw/118/PLAW-118publ158.xml",
+      "sort": "0118-00158",
+      "sha256": "d4a332d145284f72b49fee12ab18207df7c128069e683a4b4b195825d7e88e9b",
+      "bytes": 299654
+    },
+    {
+      "key": "118-159",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ159.xml",
+      "path": "plaw/118/PLAW-118publ159.xml",
+      "sort": "0118-00159",
+      "sha256": "0a399fcebee0e63d1cebf9ef90c21920e87bc2dc0f52ac36a44532f6793a514a",
+      "bytes": 9094859
+    },
+    {
+      "key": "118-160",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ160.xml",
+      "path": "plaw/118/PLAW-118publ160.xml",
+      "sort": "0118-00160",
+      "sha256": "04d4ed9d44e469ca5e1de13ee723069bf3cefd177d57e9821de5b664a182dd8f",
+      "bytes": 37277
+    },
+    {
+      "key": "118-161",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ161.xml",
+      "path": "plaw/118/PLAW-118publ161.xml",
+      "sort": "0118-00161",
+      "sha256": "d3063f22b1deae56dc4095fa590d85c8d48f126df706652931dc75ff2faf7505",
+      "bytes": 20735
+    },
+    {
+      "key": "118-162",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ162.xml",
+      "path": "plaw/118/PLAW-118publ162.xml",
+      "sort": "0118-00162",
+      "sha256": "840c97003e16b271829c6b5ed29ba2dfced02c93e62e5bf0dce52751bb8b18cd",
+      "bytes": 18172
+    },
+    {
+      "key": "118-163",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ163.xml",
+      "path": "plaw/118/PLAW-118publ163.xml",
+      "sort": "0118-00163",
+      "sha256": "59d94ab0e0741b860bef69c70862cc1a053487de11bf32cc9b9598bb4a471fb5",
+      "bytes": 5654
+    },
+    {
+      "key": "118-164",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ164.xml",
+      "path": "plaw/118/PLAW-118publ164.xml",
+      "sort": "0118-00164",
+      "sha256": "feb450f0635d468b46073d1139d51228d05f5953df271b5e092be7093b5b14b5",
+      "bytes": 14853
+    },
+    {
+      "key": "118-165",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ165.xml",
+      "path": "plaw/118/PLAW-118publ165.xml",
+      "sort": "0118-00165",
+      "sha256": "28a77a24a92f639498b7680744af4d6e4ec57eb64ff6475902a123c0affff17f",
+      "bytes": 13354
+    },
+    {
+      "key": "118-166",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ166.xml",
+      "path": "plaw/118/PLAW-118publ166.xml",
+      "sort": "0118-00166",
+      "sha256": "92af12b6e98846a3befa7a6d76969404e3f8d8b23a0c5a8a220834ca24d46639",
+      "bytes": 4984
+    },
+    {
+      "key": "118-167",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ167.xml",
+      "path": "plaw/118/PLAW-118publ167.xml",
+      "sort": "0118-00167",
+      "sha256": "5a577e07d74d6b07490c80b1cec6e1fd7910f19155284ea19f3f387f31fc82aa",
+      "bytes": 11699
+    },
+    {
+      "key": "118-168",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ168.xml",
+      "path": "plaw/118/PLAW-118publ168.xml",
+      "sort": "0118-00168",
+      "sha256": "e7e84741f18f9e40d09638ae94704749d24bd59251e699ab75974165dcdf12da",
+      "bytes": 15478
+    },
+    {
+      "key": "118-169",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ169.xml",
+      "path": "plaw/118/PLAW-118publ169.xml",
+      "sort": "0118-00169",
+      "sha256": "c68cfb2ae8d4bbcf3d0ebc35a608ca3877fe6bb26bb93d810d70bf0b6e8e5881",
+      "bytes": 6843
+    },
+    {
+      "key": "118-170",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ170.xml",
+      "path": "plaw/118/PLAW-118publ170.xml",
+      "sort": "0118-00170",
+      "sha256": "06675dd0cbc2d8b854948301ae395caa2c3b56e5b254992b3de26e59e984a35e",
+      "bytes": 6158
+    },
+    {
+      "key": "118-171",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ171.xml",
+      "path": "plaw/118/PLAW-118publ171.xml",
+      "sort": "0118-00171",
+      "sha256": "32815c1d9429e07aafa6dfdb7d410e6b53bdc8ac2d887ffcc018f281e0bc1e68",
+      "bytes": 17741
+    },
+    {
+      "key": "118-172",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ172.xml",
+      "path": "plaw/118/PLAW-118publ172.xml",
+      "sort": "0118-00172",
+      "sha256": "7c7a26fb194086bfe52bb06b9129a4f785ae8b42288359af3b9db4fd68b1954d",
+      "bytes": 26521
+    },
+    {
+      "key": "118-173",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ173.xml",
+      "path": "plaw/118/PLAW-118publ173.xml",
+      "sort": "0118-00173",
+      "sha256": "23ef768da96723a879b6902ceea7e226ad936d8e5846e2bf0ccee517c9bd0d25",
+      "bytes": 34157
+    },
+    {
+      "key": "118-174",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ174.xml",
+      "path": "plaw/118/PLAW-118publ174.xml",
+      "sort": "0118-00174",
+      "sha256": "fa86b9896994cae27d6cf9317bd08d8588fb121ad6d83190584b3f1979da382d",
+      "bytes": 16242
+    },
+    {
+      "key": "118-175",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ175.xml",
+      "path": "plaw/118/PLAW-118publ175.xml",
+      "sort": "0118-00175",
+      "sha256": "d7575ca9594c0926ccbe954211cf5fba4975329cf884641c84184449033be156",
+      "bytes": 5549
+    },
+    {
+      "key": "118-176",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ176.xml",
+      "path": "plaw/118/PLAW-118publ176.xml",
+      "sort": "0118-00176",
+      "sha256": "8cf5e14f835ce09f06bee71a274e643572fde0c479cf0083fe6df7ac24dc8531",
+      "bytes": 39877
+    },
+    {
+      "key": "118-177",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ177.xml",
+      "path": "plaw/118/PLAW-118publ177.xml",
+      "sort": "0118-00177",
+      "sha256": "48d7455f21bb565cbc1518ee273e026d5be71a60c84e55deabba46b26abf955e",
+      "bytes": 5482
+    },
+    {
+      "key": "118-178",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ178.xml",
+      "path": "plaw/118/PLAW-118publ178.xml",
+      "sort": "0118-00178",
+      "sha256": "42e7cc9cad2e1a25988208b4ae0587bbdc406e7b9bbbc083dc1ef17568c5c54b",
+      "bytes": 5580
+    },
+    {
+      "key": "118-179",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ179.xml",
+      "path": "plaw/118/PLAW-118publ179.xml",
+      "sort": "0118-00179",
+      "sha256": "015558b496907d73b01b35ea351197d796d92ab2ca671ad8e5b5ecaec1e46b8a",
+      "bytes": 8095
+    },
+    {
+      "key": "118-180",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ180.xml",
+      "path": "plaw/118/PLAW-118publ180.xml",
+      "sort": "0118-00180",
+      "sha256": "ed492f4fa5865962ccc381fc993c7a2b1ba5e08f1be0e011baf49abee268b45c",
+      "bytes": 53339
+    },
+    {
+      "key": "118-181",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ181.xml",
+      "path": "plaw/118/PLAW-118publ181.xml",
+      "sort": "0118-00181",
+      "sha256": "dca9d0b7b984ff43545790f8fa1dd03faf30c38c9b6bfd5548e9522889a4a8a4",
+      "bytes": 17947
+    },
+    {
+      "key": "118-182",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ182.xml",
+      "path": "plaw/118/PLAW-118publ182.xml",
+      "sort": "0118-00182",
+      "sha256": "d9c2baf4a15547a20c019418aed55614ada9ea14f32cbe69bf8655569319f72a",
+      "bytes": 15567
+    },
+    {
+      "key": "118-183",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ183.xml",
+      "path": "plaw/118/PLAW-118publ183.xml",
+      "sort": "0118-00183",
+      "sha256": "ad463dcf427436b77c46de4db131d306066566280be83e6e463d8e4d38b24262",
+      "bytes": 17615
+    },
+    {
+      "key": "118-184",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ184.xml",
+      "path": "plaw/118/PLAW-118publ184.xml",
+      "sort": "0118-00184",
+      "sha256": "a550f8bc2d9edf92b6ec9cc79b0ee47c1fca1a639e6b27040503c90e68fe4812",
+      "bytes": 7029
+    },
+    {
+      "key": "118-185",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ185.xml",
+      "path": "plaw/118/PLAW-118publ185.xml",
+      "sort": "0118-00185",
+      "sha256": "747d2a501bc57d816af83e0e09b95788d256514c351fcb3202ee15fbc02610a8",
+      "bytes": 50759
+    },
+    {
+      "key": "118-186",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ186.xml",
+      "path": "plaw/118/PLAW-118publ186.xml",
+      "sort": "0118-00186",
+      "sha256": "d682f433749d8c49e152167c4e0a63114f76520e3f1ff1185387ba69153bbe29",
+      "bytes": 12224
+    },
+    {
+      "key": "118-187",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ187.xml",
+      "path": "plaw/118/PLAW-118publ187.xml",
+      "sort": "0118-00187",
+      "sha256": "bbb7fa0dc43509157cf2f041eea742419e0302d48281ece05678f60970f46698",
+      "bytes": 42223
+    },
+    {
+      "key": "118-188",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ188.xml",
+      "path": "plaw/118/PLAW-118publ188.xml",
+      "sort": "0118-00188",
+      "sha256": "48fc33bc8479dcb09e95fd618196c462b539dbda0e077f0ecedc882930b8b427",
+      "bytes": 67419
+    },
+    {
+      "key": "118-189",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ189.xml",
+      "path": "plaw/118/PLAW-118publ189.xml",
+      "sort": "0118-00189",
+      "sha256": "5eafb15561eb3d69c0596a4b5704d8c3d3b918813ac65e0ec7ee3e78aa847dc5",
+      "bytes": 5616
+    },
+    {
+      "key": "118-190",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ190.xml",
+      "path": "plaw/118/PLAW-118publ190.xml",
+      "sort": "0118-00190",
+      "sha256": "25ad7e57fa93ba773843cee1cdec0605bbec72d885bbb7d0b134de1e8efcf375",
+      "bytes": 35693
+    },
+    {
+      "key": "118-191",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ191.xml",
+      "path": "plaw/118/PLAW-118publ191.xml",
+      "sort": "0118-00191",
+      "sha256": "95921071aedced9f148ae374d594dbdc90c1ba1e703e8a9f0328eddd9185ecb7",
+      "bytes": 12012
+    },
+    {
+      "key": "118-192",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ192.xml",
+      "path": "plaw/118/PLAW-118publ192.xml",
+      "sort": "0118-00192",
+      "sha256": "326c79223567c5c67c22e219c1981d93f3d19f96b29861c7bd26801ffe8a9854",
+      "bytes": 9868
+    },
+    {
+      "key": "118-193",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ193.xml",
+      "path": "plaw/118/PLAW-118publ193.xml",
+      "sort": "0118-00193",
+      "sha256": "6164a577dd710aaf3f173da70b9911fde2e065687f884f9a8247e1fcdd870e14",
+      "bytes": 11807
+    },
+    {
+      "key": "118-194",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ194.xml",
+      "path": "plaw/118/PLAW-118publ194.xml",
+      "sort": "0118-00194",
+      "sha256": "a67d60591d6db900d67b47051fdab9967d83d158822966a0248296014bd54f4d",
+      "bytes": 38527
+    },
+    {
+      "key": "118-195",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ195.xml",
+      "path": "plaw/118/PLAW-118publ195.xml",
+      "sort": "0118-00195",
+      "sha256": "daabd2569b1d09ef50cf3f8ef72f66a179e9aa717f1aded4594431c767b52eed",
+      "bytes": 11464
+    },
+    {
+      "key": "118-196",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ196.xml",
+      "path": "plaw/118/PLAW-118publ196.xml",
+      "sort": "0118-00196",
+      "sha256": "28846d5f52d8128340f26f3592375a56504bc1c34fa8b569d20ec5e4bba868ec",
+      "bytes": 45871
+    },
+    {
+      "key": "118-197",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ197.xml",
+      "path": "plaw/118/PLAW-118publ197.xml",
+      "sort": "0118-00197",
+      "sha256": "c071069312c615237bf4cf94bda0327aef7dccbaa4c805e30504466d7a746d1b",
+      "bytes": 5432
+    },
+    {
+      "key": "118-198",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ198.xml",
+      "path": "plaw/118/PLAW-118publ198.xml",
+      "sort": "0118-00198",
+      "sha256": "2001743c2773d95d6a0ce400043a3eff601be0c4df471c10921bf9a00cf5c99b",
+      "bytes": 53234
+    },
+    {
+      "key": "118-199",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ199.xml",
+      "path": "plaw/118/PLAW-118publ199.xml",
+      "sort": "0118-00199",
+      "sha256": "3dd0114577b3c790d1385f91fbfda313ea0752f0cee6a76277b17fcc1bf2c8d2",
+      "bytes": 10865
+    },
+    {
+      "key": "118-200",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ200.xml",
+      "path": "plaw/118/PLAW-118publ200.xml",
+      "sort": "0118-00200",
+      "sha256": "920ed1c79773fb2861c522eca59296898e31c2f2aef6304f1572aabce9298f13",
+      "bytes": 5114
+    },
+    {
+      "key": "118-201",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ201.xml",
+      "path": "plaw/118/PLAW-118publ201.xml",
+      "sort": "0118-00201",
+      "sha256": "427fe3393410eb843302da5af9d01f8d9e7ee4181c2d87603414278b6ac680b2",
+      "bytes": 5004
+    },
+    {
+      "key": "118-202",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ202.xml",
+      "path": "plaw/118/PLAW-118publ202.xml",
+      "sort": "0118-00202",
+      "sha256": "d982f6b5703a05ace684f9eda9c20b326c2b656f5d076ed8bf4da6adb9dcaf3c",
+      "bytes": 33814
+    },
+    {
+      "key": "118-203",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ203.xml",
+      "path": "plaw/118/PLAW-118publ203.xml",
+      "sort": "0118-00203",
+      "sha256": "2640b8df0d1a47218963b4348b1855c91d2f45a2a8fc6d8b332584884eaee8f5",
+      "bytes": 25284
+    },
+    {
+      "key": "118-204",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ204.xml",
+      "path": "plaw/118/PLAW-118publ204.xml",
+      "sort": "0118-00204",
+      "sha256": "2a51e98322c4fcee950bdfa9ceac2d581d840621b4f846835441067ba18ba192",
+      "bytes": 4978
+    },
+    {
+      "key": "118-205",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ205.xml",
+      "path": "plaw/118/PLAW-118publ205.xml",
+      "sort": "0118-00205",
+      "sha256": "324c5b35bfdfd120f736e52092716c54d46d1d50043d5fbfab65dd31ab1c25d9",
+      "bytes": 11567
+    },
+    {
+      "key": "118-206",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ206.xml",
+      "path": "plaw/118/PLAW-118publ206.xml",
+      "sort": "0118-00206",
+      "sha256": "6921a350405a294cac14e59f3d9e5d3c82d4f72da12a8ff5f0d6f37e4b16988e",
+      "bytes": 13483
+    },
+    {
+      "key": "118-207",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ207.xml",
+      "path": "plaw/118/PLAW-118publ207.xml",
+      "sort": "0118-00207",
+      "sha256": "5499415c0135e11bbbb4d2cf9d15031cc52c9bede23fb14449f8659c76d98dd0",
+      "bytes": 16798
+    },
+    {
+      "key": "118-208",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ208.xml",
+      "path": "plaw/118/PLAW-118publ208.xml",
+      "sort": "0118-00208",
+      "sha256": "a3b17db99b2b36f49ee478b73105f2ca39fe71f3cb7d6045808ebee320acac25",
+      "bytes": 5145
+    },
+    {
+      "key": "118-209",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ209.xml",
+      "path": "plaw/118/PLAW-118publ209.xml",
+      "sort": "0118-00209",
+      "sha256": "0f66900b51aa023702f4a42d88ffd546ba0a67934e2252faa48c9b7ffbe96f58",
+      "bytes": 5558
+    },
+    {
+      "key": "118-210",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ210.xml",
+      "path": "plaw/118/PLAW-118publ210.xml",
+      "sort": "0118-00210",
+      "sha256": "cdc515622ef19fea346142e64e0fe8def014af315348c60c1300817f1e731b97",
+      "bytes": 779322
+    },
+    {
+      "key": "118-211",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ211.xml",
+      "path": "plaw/118/PLAW-118publ211.xml",
+      "sort": "0118-00211",
+      "sha256": "e0ec40741f4624a158dc6539e26d19ab5c1084fe14b003ce46dbdaec88ec3c58",
+      "bytes": 5083
+    },
+    {
+      "key": "118-212",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ212.xml",
+      "path": "plaw/118/PLAW-118publ212.xml",
+      "sort": "0118-00212",
+      "sha256": "d2f3b177189cdae9837a0c05c4480dd5255de2f9c6ea7e0133b78931014b4457",
+      "bytes": 5142
+    },
+    {
+      "key": "118-213",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ213.xml",
+      "path": "plaw/118/PLAW-118publ213.xml",
+      "sort": "0118-00213",
+      "sha256": "c16d5d87fefa8c280ccfe31535474e0e58b5f4f77a5bf314643b7acef51760e2",
+      "bytes": 5137
+    },
+    {
+      "key": "118-214",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ214.xml",
+      "path": "plaw/118/PLAW-118publ214.xml",
+      "sort": "0118-00214",
+      "sha256": "3ea8e4aa48bc346cceb39191c9275d0f9d9e2c91fe6b338e5f7fb1254213e360",
+      "bytes": 5076
+    },
+    {
+      "key": "118-215",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ215.xml",
+      "path": "plaw/118/PLAW-118publ215.xml",
+      "sort": "0118-00215",
+      "sha256": "33121220583c46c95b8ff56cb65c7e5782331ada7dd2c84d059c6ba65a9124fd",
+      "bytes": 9073
+    },
+    {
+      "key": "118-216",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ216.xml",
+      "path": "plaw/118/PLAW-118publ216.xml",
+      "sort": "0118-00216",
+      "sha256": "3764c2bb6564429cfeb747fc92c74d4b01a8d8e4f980941ad9922d0d1ee18714",
+      "bytes": 5119
+    },
+    {
+      "key": "118-217",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ217.xml",
+      "path": "plaw/118/PLAW-118publ217.xml",
+      "sort": "0118-00217",
+      "sha256": "6071d10872e5a63f8ec8a130f1f5aeb02d68c583519508cd1cb4b6f9c8915aa8",
+      "bytes": 5068
+    },
+    {
+      "key": "118-218",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ218.xml",
+      "path": "plaw/118/PLAW-118publ218.xml",
+      "sort": "0118-00218",
+      "sha256": "18cc38922775ef363c57c65d6055ef2f7b782936f4f3c51ea1a66c9984de8d54",
+      "bytes": 5059
+    },
+    {
+      "key": "118-219",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ219.xml",
+      "path": "plaw/118/PLAW-118publ219.xml",
+      "sort": "0118-00219",
+      "sha256": "a27a413eb6ed076a2318ffad91c3141bace1f234a6cc21ac6aa146a000bd64f4",
+      "bytes": 5052
+    },
+    {
+      "key": "118-220",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ220.xml",
+      "path": "plaw/118/PLAW-118publ220.xml",
+      "sort": "0118-00220",
+      "sha256": "56ff28d4457e94f237c25ddd003ea163e44473054b6a1598163e5d4d79acdb59",
+      "bytes": 5102
+    },
+    {
+      "key": "118-221",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ221.xml",
+      "path": "plaw/118/PLAW-118publ221.xml",
+      "sort": "0118-00221",
+      "sha256": "c690a2753955180fc361d540daa5c945676be655efb9dd9ccc231ad6766d6a6a",
+      "bytes": 5111
+    },
+    {
+      "key": "118-222",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ222.xml",
+      "path": "plaw/118/PLAW-118publ222.xml",
+      "sort": "0118-00222",
+      "sha256": "fd643189b0557d3c70fa3080a3b7b549fdefb78d8e8b0518a3fa10614f7369f0",
+      "bytes": 5059
+    },
+    {
+      "key": "118-223",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ223.xml",
+      "path": "plaw/118/PLAW-118publ223.xml",
+      "sort": "0118-00223",
+      "sha256": "f913bb42fe7870bcb9112dfd74a9bc69608b1e20d8102629054e1c964078f6c5",
+      "bytes": 5150
+    },
+    {
+      "key": "118-224",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ224.xml",
+      "path": "plaw/118/PLAW-118publ224.xml",
+      "sort": "0118-00224",
+      "sha256": "a16bee1b76fa88439cd7b27319384f18045ac725e730965a377fd2355e0db8cd",
+      "bytes": 4989
+    },
+    {
+      "key": "118-225",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ225.xml",
+      "path": "plaw/118/PLAW-118publ225.xml",
+      "sort": "0118-00225",
+      "sha256": "d0e0faabb104128aabe5849bff9b0bb525ceadafa2468d9920c5fdace8853d66",
+      "bytes": 10977
+    },
+    {
+      "key": "118-226",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ226.xml",
+      "path": "plaw/118/PLAW-118publ226.xml",
+      "sort": "0118-00226",
+      "sha256": "ef5a6f064bc533dbf9d1a1fc42eac9da9f56a861e824db21a38b3363daad955b",
+      "bytes": 7699
+    },
+    {
+      "key": "118-227",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ227.xml",
+      "path": "plaw/118/PLAW-118publ227.xml",
+      "sort": "0118-00227",
+      "sha256": "3740c2cb5fb6769c45550bbeeb2c081e4183386f876f7c8f4adc56cd3d547413",
+      "bytes": 13804
+    },
+    {
+      "key": "118-228",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ228.xml",
+      "path": "plaw/118/PLAW-118publ228.xml",
+      "sort": "0118-00228",
+      "sha256": "cca62aee9f9656a1929bd0e89fa30c4b3ca9e5f884ee6314cd50da771ae6f506",
+      "bytes": 12786
+    },
+    {
+      "key": "118-229",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ229.xml",
+      "path": "plaw/118/PLAW-118publ229.xml",
+      "sort": "0118-00229",
+      "sha256": "cccab41028635c0d9d18ee0d90cb7500a793d156e046c12b13688706ed38c032",
+      "bytes": 10565
+    },
+    {
+      "key": "118-230",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ230.xml",
+      "path": "plaw/118/PLAW-118publ230.xml",
+      "sort": "0118-00230",
+      "sha256": "32633c6ac0af890051026a43b148eb85f8f53cb2e0eebe6f0d687fb80ed5c6de",
+      "bytes": 19337
+    },
+    {
+      "key": "118-231",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ231.xml",
+      "path": "plaw/118/PLAW-118publ231.xml",
+      "sort": "0118-00231",
+      "sha256": "6a4b297fcf6c4234eb9bb678c5cf811070d466ff2357a4ca8766579980775a86",
+      "bytes": 31357
+    },
+    {
+      "key": "118-232",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ232.xml",
+      "path": "plaw/118/PLAW-118publ232.xml",
+      "sort": "0118-00232",
+      "sha256": "699d57ea819c8c795cedcba71266c520aacff8a90c433a643024d6cece79e9f1",
+      "bytes": 5555
+    },
+    {
+      "key": "118-233",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ233.xml",
+      "path": "plaw/118/PLAW-118publ233.xml",
+      "sort": "0118-00233",
+      "sha256": "4cda93806ef1db10b4799140defce1f953265dfe3b7d6aa8c2bd18a1bc55b5e2",
+      "bytes": 5431
+    },
+    {
+      "key": "118-234",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ234.xml",
+      "path": "plaw/118/PLAW-118publ234.xml",
+      "sort": "0118-00234",
+      "sha256": "369b7e7911ebcdf3917f1798de0033beae164160bb8b8a163fdd57432131e3e6",
+      "bytes": 695348
+    },
+    {
+      "key": "118-235",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ235.xml",
+      "path": "plaw/118/PLAW-118publ235.xml",
+      "sort": "0118-00235",
+      "sha256": "6cdd3ea4c03bcd1a176f1721a909b2aa20a54e68bb060eb01196a5fc2a0b4aac",
+      "bytes": 8812
+    },
+    {
+      "key": "118-236",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ236.xml",
+      "path": "plaw/118/PLAW-118publ236.xml",
+      "sort": "0118-00236",
+      "sha256": "751bcf92425677918f9620a26f0e49303500e04b07020c8e32d1f5d27d43ebfd",
+      "bytes": 5019
+    },
+    {
+      "key": "118-237",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ237.xml",
+      "path": "plaw/118/PLAW-118publ237.xml",
+      "sort": "0118-00237",
+      "sha256": "39e1280b1f9e9ab182af13334090cdd28bc6396df49fd1688cff48d6cf5d3e5e",
+      "bytes": 4998
+    },
+    {
+      "key": "118-238",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ238.xml",
+      "path": "plaw/118/PLAW-118publ238.xml",
+      "sort": "0118-00238",
+      "sha256": "b189268e4380822b82eaf31a154595739b8f0220091c997b350aefeb1f58a03b",
+      "bytes": 15713
+    },
+    {
+      "key": "118-239",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ239.xml",
+      "path": "plaw/118/PLAW-118publ239.xml",
+      "sort": "0118-00239",
+      "sha256": "c719edcb066522eb90d3c572255d4c140aed1676ffdc21d1ba9f9c9e1c19445f",
+      "bytes": 5027
+    },
+    {
+      "key": "118-240",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ240.xml",
+      "path": "plaw/118/PLAW-118publ240.xml",
+      "sort": "0118-00240",
+      "sha256": "a38f10f3ae44e4c33a38a0039fb10ec4499ba2d5922a2c9317f219ce4662f1d1",
+      "bytes": 5018
+    },
+    {
+      "key": "118-241",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ241.xml",
+      "path": "plaw/118/PLAW-118publ241.xml",
+      "sort": "0118-00241",
+      "sha256": "fd2f81bd3b1b5d085688c39b6b89c808db704768f2e80093c01e3822ea34ba3a",
+      "bytes": 5075
+    },
+    {
+      "key": "118-242",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ242.xml",
+      "path": "plaw/118/PLAW-118publ242.xml",
+      "sort": "0118-00242",
+      "sha256": "5fa933243939ecda7f66485339cfdd1abadf17728371edf1d4110148dea42272",
+      "bytes": 4984
+    },
+    {
+      "key": "118-243",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ243.xml",
+      "path": "plaw/118/PLAW-118publ243.xml",
+      "sort": "0118-00243",
+      "sha256": "2e501135132182ff459ad8d373fae8d1826669cf519e32feabc81525bb4e93e9",
+      "bytes": 5010
+    },
+    {
+      "key": "118-244",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ244.xml",
+      "path": "plaw/118/PLAW-118publ244.xml",
+      "sort": "0118-00244",
+      "sha256": "ff6cb9df928ad3aa066ec1e4c7ef88322ae37430791a5c7d546a047adf200f3d",
+      "bytes": 5310
+    },
+    {
+      "key": "118-245",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ245.xml",
+      "path": "plaw/118/PLAW-118publ245.xml",
+      "sort": "0118-00245",
+      "sha256": "f4ddd21dab37d227576d0394ccc65a270fb19e8a325762bea09eafd508c6112b",
+      "bytes": 5001
+    },
+    {
+      "key": "118-246",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ246.xml",
+      "path": "plaw/118/PLAW-118publ246.xml",
+      "sort": "0118-00246",
+      "sha256": "fd609ef0dc3b5b7749f7a5867debcdbd26168e419fe48104ebe46ddd1c693637",
+      "bytes": 14953
+    },
+    {
+      "key": "118-247",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ247.xml",
+      "path": "plaw/118/PLAW-118publ247.xml",
+      "sort": "0118-00247",
+      "sha256": "7ee5f41159f66ebf10a9e81e8e9d1cda74c58bb858996c46b36c5c4ffc9c3f9a",
+      "bytes": 12780
+    },
+    {
+      "key": "118-248",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ248.xml",
+      "path": "plaw/118/PLAW-118publ248.xml",
+      "sort": "0118-00248",
+      "sha256": "e7833a82c420cfcc810faf599c25201eb7e6b4694d5c74cb12122277d65a57d8",
+      "bytes": 5108
+    },
+    {
+      "key": "118-249",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ249.xml",
+      "path": "plaw/118/PLAW-118publ249.xml",
+      "sort": "0118-00249",
+      "sha256": "f4830efa3f6005399a28235edaeb916ddd903df7c4f961322e22b271aaf17019",
+      "bytes": 5059
+    },
+    {
+      "key": "118-250",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ250.xml",
+      "path": "plaw/118/PLAW-118publ250.xml",
+      "sort": "0118-00250",
+      "sha256": "cf0ee13090124b131c27a1f81238c2850aec21f3154f507043b4c3aad86a36c8",
+      "bytes": 4248
+    },
+    {
+      "key": "118-251",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ251.xml",
+      "path": "plaw/118/PLAW-118publ251.xml",
+      "sort": "0118-00251",
+      "sha256": "6508d9b3d4fdf5dbfb1dbdcea42833c8d66976792ae3f44720ddae034ba4d656",
+      "bytes": 5094
+    },
+    {
+      "key": "118-252",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ252.xml",
+      "path": "plaw/118/PLAW-118publ252.xml",
+      "sort": "0118-00252",
+      "sha256": "6bb5552685df51b0af437ac9c275887dbf22c62c1822912bc7b403f5aee3e56b",
+      "bytes": 4989
+    },
+    {
+      "key": "118-253",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ253.xml",
+      "path": "plaw/118/PLAW-118publ253.xml",
+      "sort": "0118-00253",
+      "sha256": "12db72c2f7075364a596b9cba907afb7eb5c27f4cd31a8edf017d4a09ead517d",
+      "bytes": 4954
+    },
+    {
+      "key": "118-254",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ254.xml",
+      "path": "plaw/118/PLAW-118publ254.xml",
+      "sort": "0118-00254",
+      "sha256": "0317d73fe1629d7f8ad134c08204486315651527b6fddda94b58b5ba340e100c",
+      "bytes": 5052
+    },
+    {
+      "key": "118-255",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ255.xml",
+      "path": "plaw/118/PLAW-118publ255.xml",
+      "sort": "0118-00255",
+      "sha256": "14eb38e937006389823c9bb5126699538a4a15bb885e83f99b752f501dbfedee",
+      "bytes": 5123
+    },
+    {
+      "key": "118-256",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ256.xml",
+      "path": "plaw/118/PLAW-118publ256.xml",
+      "sort": "0118-00256",
+      "sha256": "6f6426e6313ff3e45c1a6fca8c839e6f4b1e7d04c3c8163b49b7c27b10c6ac14",
+      "bytes": 4991
+    },
+    {
+      "key": "118-257",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ257.xml",
+      "path": "plaw/118/PLAW-118publ257.xml",
+      "sort": "0118-00257",
+      "sha256": "3b3e9f8d70d4b2eb685a138a23906dd2af134768222fa2e092bf462c168aad51",
+      "bytes": 5009
+    },
+    {
+      "key": "118-258",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ258.xml",
+      "path": "plaw/118/PLAW-118publ258.xml",
+      "sort": "0118-00258",
+      "sha256": "d921fbfd172cc5721a6d02b00c66ac38112fdf953cf56e441de7f227395012a6",
+      "bytes": 224420
+    },
+    {
+      "key": "118-259",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ259.xml",
+      "path": "plaw/118/PLAW-118publ259.xml",
+      "sort": "0118-00259",
+      "sha256": "e779b738e4a8f9ba010dd3fcca9a81f293b7e3ada6f7c458d29716efcebd064d",
+      "bytes": 10136
+    },
+    {
+      "key": "118-260",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ260.xml",
+      "path": "plaw/118/PLAW-118publ260.xml",
+      "sort": "0118-00260",
+      "sha256": "8b473af237f28fa42b1106eba0b8c18fbf40e43a77e37e6644f72b2ed027ebf2",
+      "bytes": 5050
+    },
+    {
+      "key": "118-261",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ261.xml",
+      "path": "plaw/118/PLAW-118publ261.xml",
+      "sort": "0118-00261",
+      "sha256": "0bb401a225da2e4b3f38f4b5622586fd92a11f4e1fa388541c75ffb95d57d84c",
+      "bytes": 4991
+    },
+    {
+      "key": "118-262",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ262.xml",
+      "path": "plaw/118/PLAW-118publ262.xml",
+      "sort": "0118-00262",
+      "sha256": "fa457c59546e58f3052853c94dd8b0b6bd84371ecb57adf7ce68201b354d01ab",
+      "bytes": 4964
+    },
+    {
+      "key": "118-263",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ263.xml",
+      "path": "plaw/118/PLAW-118publ263.xml",
+      "sort": "0118-00263",
+      "sha256": "2a963c6fa00010184d4a36c4ef25707478357cdfd2dcc09cace0ccb50e246c03",
+      "bytes": 8058
+    },
+    {
+      "key": "118-264",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ264.xml",
+      "path": "plaw/118/PLAW-118publ264.xml",
+      "sort": "0118-00264",
+      "sha256": "f9ec04f3fd8f72dd8dfcc2209aed0e057e0ed21fb6d3f2bc48758c4ffe325332",
+      "bytes": 5221
+    },
+    {
+      "key": "118-265",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ265.xml",
+      "path": "plaw/118/PLAW-118publ265.xml",
+      "sort": "0118-00265",
+      "sha256": "66ee6909f6459d16fe55c60ebc61666518b9158521e6b170e98b0c78dc7cef9c",
+      "bytes": 4998
+    },
+    {
+      "key": "118-266",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ266.xml",
+      "path": "plaw/118/PLAW-118publ266.xml",
+      "sort": "0118-00266",
+      "sha256": "11bc389a185e7d6917191630ca19127e6e8a05cf81989d35302fed821b0ce404",
+      "bytes": 4983
+    },
+    {
+      "key": "118-267",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ267.xml",
+      "path": "plaw/118/PLAW-118publ267.xml",
+      "sort": "0118-00267",
+      "sha256": "fbe5b0cc6843c9a6a0156f804df7655dff280d0fc8f77fdc5ffa9553c00877f1",
+      "bytes": 30921
+    },
+    {
+      "key": "118-268",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ268.xml",
+      "path": "plaw/118/PLAW-118publ268.xml",
+      "sort": "0118-00268",
+      "sha256": "b11a0cfbc581e7184dad7d11cda6339d0fb435e7667c40a8e1fa057ac8e1d26f",
+      "bytes": 4985
+    },
+    {
+      "key": "118-269",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ269.xml",
+      "path": "plaw/118/PLAW-118publ269.xml",
+      "sort": "0118-00269",
+      "sha256": "cab1e580e1b3a5357739af73c841bc56dae8ae9770637e5a32c810d5731ad787",
+      "bytes": 5072
+    },
+    {
+      "key": "118-270",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ270.xml",
+      "path": "plaw/118/PLAW-118publ270.xml",
+      "sort": "0118-00270",
+      "sha256": "d56cd20bae625bde823432a385b5cb2394488f8bd4d11641d6d599ce9ab40562",
+      "bytes": 5094
+    },
+    {
+      "key": "118-271",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ271.xml",
+      "path": "plaw/118/PLAW-118publ271.xml",
+      "sort": "0118-00271",
+      "sha256": "96832163ce4a1be910e34f92a8479c6d1fd8b299cd1d4e30b95ef97ebd0a220b",
+      "bytes": 6343
+    },
+    {
+      "key": "118-272",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ272.xml",
+      "path": "plaw/118/PLAW-118publ272.xml",
+      "sort": "0118-00272",
+      "sha256": "24fa856e2cd5fca4f01fd548836f2ca232dcd424f27c9510b5fb16868c3ffc79",
+      "bytes": 2029037
+    },
+    {
+      "key": "118-273",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ273.xml",
+      "path": "plaw/118/PLAW-118publ273.xml",
+      "sort": "0118-00273",
+      "sha256": "d7fc6a86fb0bbe147a90c2283c53b7d2982d31b5235eb764ac0a0194026385f5",
+      "bytes": 11976
+    },
+    {
+      "key": "118-274",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ274.xml",
+      "path": "plaw/118/PLAW-118publ274.xml",
+      "sort": "0118-00274",
+      "sha256": "e0146f4a66c07b78ff84b5c067e9e2e1d3abc7ea99e88bfc825f7985891dd318",
+      "bytes": 32349
+    },
+    {
+      "key": "119-1",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ1.xml",
+      "path": "plaw/119/PLAW-119publ1.xml",
+      "sort": "0119-00001",
+      "sha256": "45efd40f86bfae9ed8fe8d2a628238a2b40f2bb93476d08f54fb0f924b57478d",
+      "bytes": 23349
+    },
+    {
+      "key": "119-2",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ2.xml",
+      "path": "plaw/119/PLAW-119publ2.xml",
+      "sort": "0119-00002",
+      "sha256": "66000d1b0f1614fdfcfbd3ceaa879fd24341a58b389ffc47c135b7e25dbc72f7",
+      "bytes": 4619
+    },
+    {
+      "key": "119-3",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ3.xml",
+      "path": "plaw/119/PLAW-119publ3.xml",
+      "sort": "0119-00003",
+      "sha256": "6e206525ab3f1e5d956b60c837008c64464cbf76bb84544d2b11035b4c1492ee",
+      "bytes": 4301
+    },
+    {
+      "key": "119-4",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ4.xml",
+      "path": "plaw/119/PLAW-119publ4.xml",
+      "sort": "0119-00004",
+      "sha256": "1806832d2d7c6563ae0cc8beb69b8b5536e89f0408682c3a250b0e452e44885e",
+      "bytes": 313404
+    },
+    {
+      "key": "119-5",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ5.xml",
+      "path": "plaw/119/PLAW-119publ5.xml",
+      "sort": "0119-00005",
+      "sha256": "89487216699a7aee2b66b7ed5792632376e87ebce74b8adce18c63ae3d468261",
+      "bytes": 4678
+    },
+    {
+      "key": "119-6",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ6.xml",
+      "path": "plaw/119/PLAW-119publ6.xml",
+      "sort": "0119-00006",
+      "sha256": "11e47386be7176dd1ed05441d257f0ef764257723b4a21cd30ab3444cd7d5825",
+      "bytes": 4750
+    },
+    {
+      "key": "119-7",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ7.xml",
+      "path": "plaw/119/PLAW-119publ7.xml",
+      "sort": "0119-00007",
+      "sha256": "c3761728683361cc033d681cfffea87938cc21abc6f6db682b058371c59a6406",
+      "bytes": 4666
+    },
+    {
+      "key": "119-8",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ8.xml",
+      "path": "plaw/119/PLAW-119publ8.xml",
+      "sort": "0119-00008",
+      "sha256": "06a6a2d5fbf5aecfdce4cc6a862b26144662af8cddc5985d43f71109b6ec431c",
+      "bytes": 4921
+    },
+    {
+      "key": "119-9",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ9.xml",
+      "path": "plaw/119/PLAW-119publ9.xml",
+      "sort": "0119-00009",
+      "sha256": "823fc94fee0306a49099e259dfba691ec15887e4dde597b25bcc460ab4782eed",
+      "bytes": 4918
+    },
+    {
+      "key": "119-10",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ10.xml",
+      "path": "plaw/119/PLAW-119publ10.xml",
+      "sort": "0119-00010",
+      "sha256": "5eb6385ed5c77713eab918f9069117e3d421d57b224b8af9443a9f49595d5296",
+      "bytes": 4195
+    },
+    {
+      "key": "119-11",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ11.xml",
+      "path": "plaw/119/PLAW-119publ11.xml",
+      "sort": "0119-00011",
+      "sha256": "45375ffe6b89a07b7f7e9db4a9fc3f87b75ac0db17986c0e63884913e92ec7d5",
+      "bytes": 4317
+    },
+    {
+      "key": "119-12",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ12.xml",
+      "path": "plaw/119/PLAW-119publ12.xml",
+      "sort": "0119-00012",
+      "sha256": "d26c433f169751fb46c6932136039d2eef45ee7e8d3a46bb04909787d0c54037",
+      "bytes": 57485
+    },
+    {
+      "key": "119-13",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ13.xml",
+      "path": "plaw/119/PLAW-119publ13.xml",
+      "sort": "0119-00013",
+      "sha256": "ded948b66701d0029480194cbe4db6223d1975b865d4022e62291f4c38ca1f94",
+      "bytes": 4304
+    },
+    {
+      "key": "119-14",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ14.xml",
+      "path": "plaw/119/PLAW-119publ14.xml",
+      "sort": "0119-00014",
+      "sha256": "8c0c62a505d371f7593e9a392d600da43829ce3ce15bc0e1bef7a01b6fb5f7bb",
+      "bytes": 4414
+    },
+    {
+      "key": "119-15",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ15.xml",
+      "path": "plaw/119/PLAW-119publ15.xml",
+      "sort": "0119-00015",
+      "sha256": "a7365332b748aa9663c1eb6979a2141bdd6af988d541394051bb5f252c3372be",
+      "bytes": 5266
+    },
+    {
+      "key": "119-16",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ16.xml",
+      "path": "plaw/119/PLAW-119publ16.xml",
+      "sort": "0119-00016",
+      "sha256": "15c20eaadb499f2290f7a50942388cb9d37911c31b8acd2ef28c342dc5469712",
+      "bytes": 4834
+    },
+    {
+      "key": "119-17",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ17.xml",
+      "path": "plaw/119/PLAW-119publ17.xml",
+      "sort": "0119-00017",
+      "sha256": "cd392047e08344006ef394784022a809a45cdad986ba00ba29100b435204b87e",
+      "bytes": 4922
+    },
+    {
+      "key": "119-18",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ18.xml",
+      "path": "plaw/119/PLAW-119publ18.xml",
+      "sort": "0119-00018",
+      "sha256": "cc4d921b54b85b6b76eda6f1fa2daa770a951c67c2d76bce3dd0419580cceecb",
+      "bytes": 8758
+    },
+    {
+      "key": "119-19",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ19.xml",
+      "path": "plaw/119/PLAW-119publ19.xml",
+      "sort": "0119-00019",
+      "sha256": "91c0b8a7df7bb385e9559c60a3c450254e10bca2ee49794f0db7be031900ada8",
+      "bytes": 4443
+    },
+    {
+      "key": "119-20",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ20.xml",
+      "path": "plaw/119/PLAW-119publ20.xml",
+      "sort": "0119-00020",
+      "sha256": "87db779b9a0d938b173b70ac68ec862620e80a31e2abd82010b73d095b354ef7",
+      "bytes": 4505
+    },
+    {
+      "key": "119-21",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ21.xml",
+      "path": "plaw/119/PLAW-119publ21.xml",
+      "sort": "0119-00021",
+      "sha256": "762ae9af06640f023ddb9eb6f474ff7cfa275691de338d4fd985cfb04a7b6dea",
+      "bytes": 2787974
+    },
+    {
+      "key": "119-22",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ22.xml",
+      "path": "plaw/119/PLAW-119publ22.xml",
+      "sort": "0119-00022",
+      "sha256": "60912fd071bdbf56166721451a96d0c1e9c55d2e4153c052f92f2f0bb48522a5",
+      "bytes": 6218
+    },
+    {
+      "key": "119-23",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ23.xml",
+      "path": "plaw/119/PLAW-119publ23.xml",
+      "sort": "0119-00023",
+      "sha256": "5a7a54b8c3fed8442b6300f06c6ee94a7fe0f633b4dfc737a1a6b1bc0539b54d",
+      "bytes": 21035
+    },
+    {
+      "key": "119-24",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ24.xml",
+      "path": "plaw/119/PLAW-119publ24.xml",
+      "sort": "0119-00024",
+      "sha256": "1af3151c00b13c76baa29487e5aaeaf9da45b6a4afe00d37f533b68f540fa4ce",
+      "bytes": 14112
+    },
+    {
+      "key": "119-25",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ25.xml",
+      "path": "plaw/119/PLAW-119publ25.xml",
+      "sort": "0119-00025",
+      "sha256": "8c232fa343273c355e91e0b96d44564dad5627670e8b8a46196107297a05aade",
+      "bytes": 10735
+    },
+    {
+      "key": "119-26",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ26.xml",
+      "path": "plaw/119/PLAW-119publ26.xml",
+      "sort": "0119-00026",
+      "sha256": "1690f0292434fc938729b2b3448653bf5d4f339c64462e98a37ee6d0a60bc0f9",
+      "bytes": 74203
+    },
+    {
+      "key": "119-27",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ27.xml",
+      "path": "plaw/119/PLAW-119publ27.xml",
+      "sort": "0119-00027",
+      "sha256": "9c7bf33496c2f65085234dbf7f5cecaa72919520912c43f9f7769264e261d282",
+      "bytes": 358508
+    },
+    {
+      "key": "119-28",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ28.xml",
+      "path": "plaw/119/PLAW-119publ28.xml",
+      "sort": "0119-00028",
+      "sha256": "fec152e59d59cf98d8502bc8d487ec9524f7b9384e26601d11787edeef0248f7",
+      "bytes": 19687
+    },
+    {
+      "key": "119-29",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ29.xml",
+      "path": "plaw/119/PLAW-119publ29.xml",
+      "sort": "0119-00029",
+      "sha256": "028d5b0d8114dc8de8d1457927f21734e6e2cc51b1c9ed4a0b313ec7765eef73",
+      "bytes": 11366
+    },
+    {
+      "key": "119-30",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ30.xml",
+      "path": "plaw/119/PLAW-119publ30.xml",
+      "sort": "0119-00030",
+      "sha256": "ef75018441239fdc3a04d9a516564ff15933e13cf34288fea910f65b2b39a1cb",
+      "bytes": 7874
+    },
+    {
+      "key": "119-31",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ31.xml",
+      "path": "plaw/119/PLAW-119publ31.xml",
+      "sort": "0119-00031",
+      "sha256": "754c9945eba5c68a8bdea24d6de083b5cca7fdac59ca071358f410690faf4bdc",
+      "bytes": 40954
+    },
+    {
+      "key": "119-32",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ32.xml",
+      "path": "plaw/119/PLAW-119publ32.xml",
+      "sort": "0119-00032",
+      "sha256": "d06f3c9e5039d838540405763d438e2a31cd236491fe206c48d1437c24475f6a",
+      "bytes": 16513
+    },
+    {
+      "key": "119-33",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ33.xml",
+      "path": "plaw/119/PLAW-119publ33.xml",
+      "sort": "0119-00033",
+      "sha256": "29156cd3d1d24e4f91522afe14178b78f06995159452644d8074fd09bae31203",
+      "bytes": 36136
+    },
+    {
+      "key": "119-34",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ34.xml",
+      "path": "plaw/119/PLAW-119publ34.xml",
+      "sort": "0119-00034",
+      "sha256": "4676bd18623fec3ad5a8689d75f75546befa0ebc6dc6fbc5be1a7e79e9417b2f",
+      "bytes": 11421
+    },
+    {
+      "key": "119-35",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ35.xml",
+      "path": "plaw/119/PLAW-119publ35.xml",
+      "sort": "0119-00035",
+      "sha256": "958af37dfd34c971513a68928a063caf45a57fd3c366020901f120cfd0f3b8d2",
+      "bytes": 12390
+    },
+    {
+      "key": "119-36",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ36.xml",
+      "path": "plaw/119/PLAW-119publ36.xml",
+      "sort": "0119-00036",
+      "sha256": "5cf2ffdadbf394355c48bfb70441d22bc733e015e921befef600acc7240fc7a8",
+      "bytes": 13519
+    },
+    {
+      "key": "119-37",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ37.xml",
+      "path": "plaw/119/PLAW-119publ37.xml",
+      "sort": "0119-00037",
+      "sha256": "06529f779fb356cb83f7a65bb9acc70c0fecf7dee8411aab8bdd799e129678f1",
+      "bytes": 1000077
+    },
+    {
+      "key": "119-38",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ38.xml",
+      "path": "plaw/119/PLAW-119publ38.xml",
+      "sort": "0119-00038",
+      "sha256": "04990362ee07f7bf73497a5575d7d814956426cb6ed28a12ac8a8739a99058a6",
+      "bytes": 17036
+    },
+    {
+      "key": "119-39",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ39.xml",
+      "path": "plaw/119/PLAW-119publ39.xml",
+      "sort": "0119-00039",
+      "sha256": "cb8be9f793f6a9fc7d7fcdc32fd7a53e328478866ca39d0438b67b4a5ac8edf3",
+      "bytes": 20894
+    },
+    {
+      "key": "119-40",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ40.xml",
+      "path": "plaw/119/PLAW-119publ40.xml",
+      "sort": "0119-00040",
+      "sha256": "00f054b4a789503ab2b402c470770848023e28cba1befc16125ea74cfe5e8657",
+      "bytes": 5457
+    },
+    {
+      "key": "119-41",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ41.xml",
+      "path": "plaw/119/PLAW-119publ41.xml",
+      "sort": "0119-00041",
+      "sha256": "075c657cd153fabb640e00a44bba345fd7b2d5eb52a11ede75b0b9c06cac78a0",
+      "bytes": 10781
+    },
+    {
+      "key": "119-42",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ42.xml",
+      "path": "plaw/119/PLAW-119publ42.xml",
+      "sort": "0119-00042",
+      "sha256": "06a4c6973466a39f9fd0ed16b6ba5894c42f7a0bfcbdffa6c94a1881e5a7b5ce",
+      "bytes": 11285
+    },
+    {
+      "key": "119-43",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ43.xml",
+      "path": "plaw/119/PLAW-119publ43.xml",
+      "sort": "0119-00043",
+      "sha256": "755a46addbf57c5c2b5639b2fe4a6e1d55d56731f00558b26289403409ef793c",
+      "bytes": 12229
+    },
+    {
+      "key": "119-44",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ44.xml",
+      "path": "plaw/119/PLAW-119publ44.xml",
+      "sort": "0119-00044",
+      "sha256": "0f62736e3048fd2cf787fa38632496a65d2562cbe01e62c062e6eb3347a85d7a",
+      "bytes": 189695
+    },
+    {
+      "key": "119-45",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ45.xml",
+      "path": "plaw/119/PLAW-119publ45.xml",
+      "sort": "0119-00045",
+      "sha256": "1aa0b90bd897896625fb0c1170f492b1fa94c1e211ea0cebc431637e9d6757c7",
+      "bytes": 8776
+    },
+    {
+      "key": "119-46",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ46.xml",
+      "path": "plaw/119/PLAW-119publ46.xml",
+      "sort": "0119-00046",
+      "sha256": "84d2694ebed545080fe034f6022bdcfb2d58c3229c44535d2bba19c3a542a00a",
+      "bytes": 10123
+    },
+    {
+      "key": "119-47",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ47.xml",
+      "path": "plaw/119/PLAW-119publ47.xml",
+      "sort": "0119-00047",
+      "sha256": "faa8c555df01c12c68cfbb0fe5a2f565976bbfe1f5c21405081a88ca27fbfab3",
+      "bytes": 4620
+    },
+    {
+      "key": "119-48",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ48.xml",
+      "path": "plaw/119/PLAW-119publ48.xml",
+      "sort": "0119-00048",
+      "sha256": "f955059ebd17b04f527467f62909e40083598378f22685f771ae10cb49383a8a",
+      "bytes": 4798
+    },
+    {
+      "key": "119-49",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ49.xml",
+      "path": "plaw/119/PLAW-119publ49.xml",
+      "sort": "0119-00049",
+      "sha256": "18e694b309b4fe85c26eca31e2345ca9c2257cd0e44c23217d296a9e2367404f",
+      "bytes": 4768
+    },
+    {
+      "key": "119-50",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ50.xml",
+      "path": "plaw/119/PLAW-119publ50.xml",
+      "sort": "0119-00050",
+      "sha256": "940bec0150755e79e18b9de3d559f64e804aceeb1804481955faa66648614363",
+      "bytes": 4661
+    },
+    {
+      "key": "119-51",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ51.xml",
+      "path": "plaw/119/PLAW-119publ51.xml",
+      "sort": "0119-00051",
+      "sha256": "89b09de0c661d6c5fb2bd41910e60377f33f2cccf8d78a3f0e13bfc10d921d7e",
+      "bytes": 4805
+    },
+    {
+      "key": "119-52",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ52.xml",
+      "path": "plaw/119/PLAW-119publ52.xml",
+      "sort": "0119-00052",
+      "sha256": "72509a73180c47048ed0233aa8fcbe8ae7e71a66efbca313af90f8e7021be5cb",
+      "bytes": 4632
+    },
+    {
+      "key": "119-53",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ53.xml",
+      "path": "plaw/119/PLAW-119publ53.xml",
+      "sort": "0119-00053",
+      "sha256": "4c8d02892fa3f55a073a71832cb734fa526e2cdbd2c05878badc382b09d01bb1",
+      "bytes": 22707
+    },
+    {
+      "key": "119-54",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ54.xml",
+      "path": "plaw/119/PLAW-119publ54.xml",
+      "sort": "0119-00054",
+      "sha256": "3d5c8e3ccd9507db4e9a56a1f55f4e7800fa8d4e78fe774f1837d129ed98f7b3",
+      "bytes": 9810
+    },
+    {
+      "key": "119-55",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ55.xml",
+      "path": "plaw/119/PLAW-119publ55.xml",
+      "sort": "0119-00055",
+      "sha256": "7c6ae2137b44baba658a3258ea1d1d47ca609315fbd69b9b1822638d32db6945",
+      "bytes": 10433
+    },
+    {
+      "key": "119-56",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ56.xml",
+      "path": "plaw/119/PLAW-119publ56.xml",
+      "sort": "0119-00056",
+      "sha256": "cf8a283079457541612448f9da9d3b47c8c4e1dedcafcd11467abef3f971e5a8",
+      "bytes": 10259
+    },
+    {
+      "key": "119-57",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ57.xml",
+      "path": "plaw/119/PLAW-119publ57.xml",
+      "sort": "0119-00057",
+      "sha256": "4a0b60df44ae0ccba6dae81749fd7514316f28be87d36252413dbf824eb8aaf4",
+      "bytes": 19834
+    },
+    {
+      "key": "119-58",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ58.xml",
+      "path": "plaw/119/PLAW-119publ58.xml",
+      "sort": "0119-00058",
+      "sha256": "21ae5aebf2dfce6c6c044fe9b1cd4fd1d1d54b735f49ff3b4d2692d9dae3caa7",
+      "bytes": 22911
+    },
+    {
+      "key": "119-59",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ59.xml",
+      "path": "plaw/119/PLAW-119publ59.xml",
+      "sort": "0119-00059",
+      "sha256": "c8ad48f80b7d805c53fc6333746a6d2bfafbc3d33cdbf5270b08675ac488942c",
+      "bytes": 4944
+    },
+    {
+      "key": "119-60",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ60.xml",
+      "path": "plaw/119/PLAW-119publ60.xml",
+      "sort": "0119-00060",
+      "sha256": "7eb2742dc8b011fa6a7a6ec17daf459749e546a432b054e1966b6f567c216713",
+      "bytes": 12357201
+    },
+    {
+      "key": "119-61",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ61.xml",
+      "path": "plaw/119/PLAW-119publ61.xml",
+      "sort": "0119-00061",
+      "sha256": "4cc0fe7a555e122950fc022efc71d5c49fa1c0c2748cf1f7d808848fb080f85d",
+      "bytes": 13907
+    },
+    {
+      "key": "119-62",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ62.xml",
+      "path": "plaw/119/PLAW-119publ62.xml",
+      "sort": "0119-00062",
+      "sha256": "ddc12cc148463d2bf5c31858daf1a71a8bec979b49fd090a8c1db233c7571905",
+      "bytes": 35933
+    },
+    {
+      "key": "119-63",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ63.xml",
+      "path": "plaw/119/PLAW-119publ63.xml",
+      "sort": "0119-00063",
+      "sha256": "15d9363c31f11e0d7c89a157cb8607ffe0cf721cfad968fe7c56fc4c54422f65",
+      "bytes": 5267
+    },
+    {
+      "key": "119-64",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ64.xml",
+      "path": "plaw/119/PLAW-119publ64.xml",
+      "sort": "0119-00064",
+      "sha256": "98d51f349bb9881072a8f1192d1be470e30ce830fcf3ea2a70bb19f340596ea7",
+      "bytes": 10439
+    },
+    {
+      "key": "119-65",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ65.xml",
+      "path": "plaw/119/PLAW-119publ65.xml",
+      "sort": "0119-00065",
+      "sha256": "afb25851d0b75eaa39e4b934d663add5bbd8e85bbf3d831d8202d5562c9fb68f",
+      "bytes": 55042
+    },
+    {
+      "key": "119-66",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ66.xml",
+      "path": "plaw/119/PLAW-119publ66.xml",
+      "sort": "0119-00066",
+      "sha256": "586176f41dcc2cc1840a3f0697137eada308cb299626ff6319fbd006b21e230c",
+      "bytes": 7139
+    },
+    {
+      "key": "119-67",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ67.xml",
+      "path": "plaw/119/PLAW-119publ67.xml",
+      "sort": "0119-00067",
+      "sha256": "08da2485812643b7a5a77526afc7143e9ceef0c192e6135d6d0f2cf2c2b65bfe",
+      "bytes": 5006
+    },
+    {
+      "key": "119-68",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ68.xml",
+      "path": "plaw/119/PLAW-119publ68.xml",
+      "sort": "0119-00068",
+      "sha256": "c345c2fa1c2b7da907d101cb06638183d4ddb9ad5196fdfa9c9dfbcffd55865e",
+      "bytes": 17721
+    },
+    {
+      "key": "119-69",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ69.xml",
+      "path": "plaw/119/PLAW-119publ69.xml",
+      "sort": "0119-00069",
+      "sha256": "c8917723fc3cf73aac8522e6453d27d926b1e9d4ad861bf6de36863076c6fc36",
+      "bytes": 13913
+    },
+    {
+      "key": "119-70",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ70.xml",
+      "path": "plaw/119/PLAW-119publ70.xml",
+      "sort": "0119-00070",
+      "sha256": "6fe9f03ea1bbf9fe019fd8c49f7d3bb885c7d6995e6ae2b9a146f5c73ebbe93b",
+      "bytes": 7954
+    },
+    {
+      "key": "119-71",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ71.xml",
+      "path": "plaw/119/PLAW-119publ71.xml",
+      "sort": "0119-00071",
+      "sha256": "df4a226784800a7a2518c3aaa618d43617478e6c480e0b312fd7966cf6bf7fe4",
+      "bytes": 11572
+    },
+    {
+      "key": "119-72",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ72.xml",
+      "path": "plaw/119/PLAW-119publ72.xml",
+      "sort": "0119-00072",
+      "sha256": "de0648c3ced4a0f0c7b6b2a1aad2bfc4c3f1cc6f7fe921cf62974d48a09979ad",
+      "bytes": 8317
+    },
+    {
+      "key": "119-73",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ73.xml",
+      "path": "plaw/119/PLAW-119publ73.xml",
+      "sort": "0119-00073",
+      "sha256": "ddbe48670bdfeecc9919f911a95b36f5dfa53fcc6f2bf936512faace28e3f7b1",
+      "bytes": 57918
+    },
+    {
+      "key": "119-74",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ74.xml",
+      "path": "plaw/119/PLAW-119publ74.xml",
+      "sort": "0119-00074",
+      "sha256": "acf1aa2e57eafa81c0bfb0accc5bccb6caf42794068435100946675c46c147f5",
+      "bytes": 895787
+    },
+    {
+      "key": "119-75",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ75.xml",
+      "path": "plaw/119/PLAW-119publ75.xml",
+      "sort": "0119-00075",
+      "sha256": "ef528a390725114748382594b611f458c51dc5cf6a4e35a9c0b87c119849edec",
+      "bytes": 3410661
+    },
+    {
+      "key": "119-76",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ76.xml",
+      "path": "plaw/119/PLAW-119publ76.xml",
+      "sort": "0119-00076",
+      "sha256": "c81be03939a13714e317aba7003b6164e8be0b0e902dac675445ce1c8b6f490e",
+      "bytes": 36508
+    },
+    {
+      "key": "119-77",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ77.xml",
+      "path": "plaw/119/PLAW-119publ77.xml",
+      "sort": "0119-00077",
+      "sha256": "f2e78bf02fd1f5512906abf487ec07a15d9080cc651a49b01c839b549223b4e7",
+      "bytes": 10158
+    },
+    {
+      "key": "119-78",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ78.xml",
+      "path": "plaw/119/PLAW-119publ78.xml",
+      "sort": "0119-00078",
+      "sha256": "3da2167b3acdccb3aa78a20b84160f3f7c48d5078d2c4727fffe9cfc68b12c85",
+      "bytes": 4360
+    },
+    {
+      "key": "119-79",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ79.xml",
+      "path": "plaw/119/PLAW-119publ79.xml",
+      "sort": "0119-00079",
+      "sha256": "38ca3d60feb637fc1d27b481c68361d1a8a13e44c781bf406c71ba1e116a69cb",
+      "bytes": 12416
+    },
+    {
+      "key": "119-80",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ80.xml",
+      "path": "plaw/119/PLAW-119publ80.xml",
+      "sort": "0119-00080",
+      "sha256": "f4f951aa650ba1b5ad2878216e2e30e5f6d6f8608b9e3b4a0a48367e59a7f35c",
+      "bytes": 4198
+    },
+    {
+      "key": "119-81",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ81.xml",
+      "path": "plaw/119/PLAW-119publ81.xml",
+      "sort": "0119-00081",
+      "sha256": "5a34796894153d800e3c68fb948bb4cf0e950c036edb2b13fb57ab436aa22903",
+      "bytes": 5257
+    },
+    {
+      "key": "119-82",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ82.xml",
+      "path": "plaw/119/PLAW-119publ82.xml",
+      "sort": "0119-00082",
+      "sha256": "17b8ba7867eaa694f0b54a8cdf13a975e89c1c5b3ac61553f07dcf5306248879",
+      "bytes": 18456
+    },
+    {
+      "key": "119-83",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ83.xml",
+      "path": "plaw/119/PLAW-119publ83.xml",
+      "sort": "0119-00083",
+      "sha256": "75b6b442d3081b1f5ee854cf1c09411e9a9131ec717de4de308b29f1493fce54",
+      "bytes": 119444
+    },
+    {
+      "key": "119-84",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ84.xml",
+      "path": "plaw/119/PLAW-119publ84.xml",
+      "sort": "0119-00084",
+      "sha256": "8a51bfd0ed53886b5816660b9b2d614f367bcac94abd6b29e4f940e0b297c406",
+      "bytes": 9891
+    },
+    {
+      "key": "119-85",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ85.xml",
+      "path": "plaw/119/PLAW-119publ85.xml",
+      "sort": "0119-00085",
+      "sha256": "77c3f8d712e6a66ebaff64a53d23884a58f79eeff2e46d535b3ea317f19e4f54",
+      "bytes": 4479
+    },
+    {
+      "key": "119-86",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ86.xml",
+      "path": "plaw/119/PLAW-119publ86.xml",
+      "sort": "0119-00086",
+      "sha256": "d9ecab0c391cf4d8f8b588d6279fe2ff9dae8aa6b9fd425f29cbe6c47ee58ac4",
+      "bytes": 250327
+    },
+    {
+      "key": "119-87",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ87.xml",
+      "path": "plaw/119/PLAW-119publ87.xml",
+      "sort": "0119-00087",
+      "sha256": "9f5043a75139c50116a1198ce89dde21745781a98d0cd4106caee0e3419e8c91",
+      "bytes": 6304
+    },
+    {
+      "key": "119-88",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ88.xml",
+      "path": "plaw/119/PLAW-119publ88.xml",
+      "sort": "0119-00088",
+      "sha256": "2ea658e79f844b5f7eccfaa7c1a158b91af79f57d2e8fa6f59feaf93c8039eb4",
+      "bytes": 42447
+    },
+    {
+      "key": "119-89",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ89.xml",
+      "path": "plaw/119/PLAW-119publ89.xml",
+      "sort": "0119-00089",
+      "sha256": "de1939d050a9384fbd88bf446d782211767988c2ad30098bad353ae869907e69",
+      "bytes": 11887
+    },
+    {
+      "key": "119-90",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ90.xml",
+      "path": "plaw/119/PLAW-119publ90.xml",
+      "sort": "0119-00090",
+      "sha256": "025fed3bb6868b3cba3fb7775af1b770d5493e3098ec3f6f9891928f9621d1a1",
+      "bytes": 8933
+    },
+    {
+      "key": "119-91",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ91.xml",
+      "path": "plaw/119/PLAW-119publ91.xml",
+      "sort": "0119-00091",
+      "sha256": "629f53deda325bba2dd8b77a65d698e1c9cdcc671ba3ff945f971ceb187ddf74",
+      "bytes": 17822
+    },
+    {
+      "key": "119-92",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ92.xml",
+      "path": "plaw/119/PLAW-119publ92.xml",
+      "sort": "0119-00092",
+      "sha256": "a5be77cf930579a733b232b6bd60804303c199a4da49182bf53a7cb079dca1f9",
+      "bytes": 20035
+    },
+    {
+      "key": "119-93",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ93.xml",
+      "path": "plaw/119/PLAW-119publ93.xml",
+      "sort": "0119-00093",
+      "sha256": "b51ddbd78bd8a7318aa895e7a9ddad6c7e6e6c469610b1e68e4e7a9197ec7279",
+      "bytes": 13779
+    },
+    {
+      "key": "119-94",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ94.xml",
+      "path": "plaw/119/PLAW-119publ94.xml",
+      "sort": "0119-00094",
+      "sha256": "54a20ad82fda4b70b4607dd32473227d4e6be813c0049ae3ea769423b78685dc",
+      "bytes": 18416
+    },
+    {
+      "key": "119-95",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ95.xml",
+      "path": "plaw/119/PLAW-119publ95.xml",
+      "sort": "0119-00095",
+      "sha256": "d03f214a9838f17a7cfb3d7137ff41d128d0dbe78f26db24fd55931d4c6a76e5",
+      "bytes": 5571
+    },
+    {
+      "key": "119-96",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ96.xml",
+      "path": "plaw/119/PLAW-119publ96.xml",
+      "sort": "0119-00096",
+      "sha256": "2faf4dac53c8fc5f0018d61fbf373ff6b28126f33abfa5ed3daa16780dd459a9",
+      "bytes": 11566
+    },
+    {
+      "key": "119-97",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ97.xml",
+      "path": "plaw/119/PLAW-119publ97.xml",
+      "sort": "0119-00097",
+      "sha256": "52a91547a24be1accafb16e6613b72ccae7cac87a7edb02886a9599a53c8dbd8",
+      "bytes": 5931
+    },
+    {
+      "key": "119-98",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ98.xml",
+      "path": "plaw/119/PLAW-119publ98.xml",
+      "sort": "0119-00098",
+      "sha256": "03389837d00a09f6d625544dcd9b32a0d283ff4c1cf5a22487fbcc1864a642a6",
+      "bytes": 28253
+    },
+    {
+      "key": "119-99",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ99.xml",
+      "path": "plaw/119/PLAW-119publ99.xml",
+      "sort": "0119-00099",
+      "sha256": "ce9e7bca75e5fada06e5c831826b06a70c786c249ddd584597c3d22181144457",
+      "bytes": 17317
+    },
+    {
+      "key": "119-100",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ100.xml",
+      "path": "plaw/119/PLAW-119publ100.xml",
+      "sort": "0119-00100",
+      "sha256": "8752864eb7ce9099487b5bcfb62de8d4a4fcb8a149a13406b0d8a8a4cff1bb1a",
+      "bytes": 6503
+    },
+    {
+      "key": "119-101",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ101.xml",
+      "path": "plaw/119/PLAW-119publ101.xml",
+      "sort": "0119-00101",
+      "sha256": "9f4bc8d57d39bf4d84442f3e68e0fd679a62878ce7c78909e687a70401616a8e",
+      "bytes": 1126653
+    },
+    {
+      "key": "119-102",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ102.xml",
+      "path": "plaw/119/PLAW-119publ102.xml",
+      "sort": "0119-00102",
+      "sha256": "40314eec6a7eb5304fdde69e36ae48ed18f889b079af969a537827ae472dfa46",
+      "bytes": 13938
+    },
+    {
+      "key": "119-103",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ103.xml",
+      "path": "plaw/119/PLAW-119publ103.xml",
+      "sort": "0119-00103",
+      "sha256": "5964a82b70b2ff4ed2d15941cb598c4bf380d55453fbbfbd5edd01a13d7ce076",
+      "bytes": 175923
+    },
+    {
+      "key": "119-104",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ104.xml",
+      "path": "plaw/119/PLAW-119publ104.xml",
+      "sort": "0119-00104",
+      "sha256": "4913984a54cd2964829e255ab479188b2316f9c404ef3c60bb7694110970c5fc",
+      "bytes": 6466
+    },
+    {
+      "key": "119-105",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ105.xml",
+      "path": "plaw/119/PLAW-119publ105.xml",
+      "sort": "0119-00105",
+      "sha256": "cf183f35a9c2b453a820751ce45bb83c472ffa47271029048987f4efffa4a7a0",
+      "bytes": 8301
+    },
+    {
+      "key": "119-106",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ106.xml",
+      "path": "plaw/119/PLAW-119publ106.xml",
+      "sort": "0119-00106",
+      "sha256": "1bdc0e4ab24edbb690d7d73e5a6383478f015e8370037aa11ba30a70fd284ebb",
+      "bytes": 32662
+    },
+    {
+      "key": "119-107",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ107.xml",
+      "path": "plaw/119/PLAW-119publ107.xml",
+      "sort": "0119-00107",
+      "sha256": "b0f708dab60e834db4996e780d8bb606ec362843890dfd20f1426bf16d9d0f9a",
+      "bytes": 6015
+    },
+    {
+      "key": "119-108",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ108.xml",
+      "path": "plaw/119/PLAW-119publ108.xml",
+      "sort": "0119-00108",
+      "sha256": "342fefd0464260182ccb509a45c3be928b3fcd8d8829bc885cd7684d3521ecd0",
+      "bytes": 22740
+    },
+    {
+      "key": "119-109",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ109.xml",
+      "path": "plaw/119/PLAW-119publ109.xml",
+      "sort": "0119-00109",
+      "sha256": "b9ad7b2eed8cbe85288e936caedf0d7ffdc7403289a095a59f4daadeea766dc3",
+      "bytes": 5921
+    },
+    {
+      "key": "119-110",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ110.xml",
+      "path": "plaw/119/PLAW-119publ110.xml",
+      "sort": "0119-00110",
+      "sha256": "f5e35df83cd3dda95bf4bceb5a61dd10205a2dbb9a78bb9d75416b30ce8f919e",
+      "bytes": 17356
+    },
+    {
+      "key": "119-111",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ111.xml",
+      "path": "plaw/119/PLAW-119publ111.xml",
+      "sort": "0119-00111",
+      "sha256": "e487cb4c9d319f8791b79a910872fd95a483fb17560fe2206981a55c6c7a26ab",
+      "bytes": 188927
+    },
+    {
+      "key": "119-112",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ112.xml",
+      "path": "plaw/119/PLAW-119publ112.xml",
+      "sort": "0119-00112",
+      "sha256": "a86dbbd2e55be3dc9d930aecb808bb942b84755212bf17e5e00ce8246e3a7e88",
+      "bytes": 11044
+    },
+    {
+      "key": "119-113",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ113.xml",
+      "path": "plaw/119/PLAW-119publ113.xml",
+      "sort": "0119-00113",
+      "sha256": "3dc34de55c58cc6811c867f1eb1255c35842aba6a0a977ee25c7f1ecbd2a8db5",
+      "bytes": 4629
+    },
+    {
+      "key": "119-114",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ114.xml",
+      "path": "plaw/119/PLAW-119publ114.xml",
+      "sort": "0119-00114",
+      "sha256": "7dd9b9403bf8b779572c302f130a3af6b16e617b244ed55278c024c53cdd2070",
+      "bytes": 6995
+    },
+    {
+      "key": "119-115",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ115.xml",
+      "path": "plaw/119/PLAW-119publ115.xml",
+      "sort": "0119-00115",
+      "sha256": "c406d7926f9a01b3b76893cb2b16a8bde1f897218c8d7d7c38d214fea98e4e3d",
+      "bytes": 9388
+    },
+    {
+      "key": "119-116",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ116.xml",
+      "path": "plaw/119/PLAW-119publ116.xml",
+      "sort": "0119-00116",
+      "sha256": "41274713b87d53aa402bf276650d681431d55c7f1a2571b487e0cd9e606ca1d5",
+      "bytes": 32086
+    },
+    {
+      "key": "119-117",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ117.xml",
+      "path": "plaw/119/PLAW-119publ117.xml",
+      "sort": "0119-00117",
+      "sha256": "118ef2b5d516b3b26abb65c6149547402fe3e9aca8c33f1037b176260b9967ab",
+      "bytes": 6819
+    },
+    {
+      "key": "119-118",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ118.xml",
+      "path": "plaw/119/PLAW-119publ118.xml",
+      "sort": "0119-00118",
+      "sha256": "41bbefd46bf8be605375fa4b0fabb5a609023a184cf7250eb8a144e843c94339",
+      "bytes": 7789
+    },
+    {
+      "key": "119-119",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ119.xml",
+      "path": "plaw/119/PLAW-119publ119.xml",
+      "sort": "0119-00119",
+      "sha256": "17e41dbd76a2298a1541400d1fcd6ead12c6e06f1f99ad47a3be732e7cd16c9c",
+      "bytes": 10668
+    },
+    {
+      "key": "119-120",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ120.xml",
+      "path": "plaw/119/PLAW-119publ120.xml",
+      "sort": "0119-00120",
+      "sha256": "10dd85836dfd04e7a1d256802f6f743d31cb0e9c9db36e65aebec196c67621c4",
+      "bytes": 15045
+    },
+    {
+      "key": "119-121",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ121.xml",
+      "path": "plaw/119/PLAW-119publ121.xml",
+      "sort": "0119-00121",
+      "sha256": "9cda89fa5041d6ee6f689cd0296fc0d4ef171d8493c94818886885019d5757e4",
+      "bytes": 14832
+    },
+    {
+      "key": "119-122",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ122.xml",
+      "path": "plaw/119/PLAW-119publ122.xml",
+      "sort": "0119-00122",
+      "sha256": "22711dac6b85af4115e4c0f5819c3fe3df0d6094b0409dc2b69f6e0796cc2001",
+      "bytes": 25188
+    },
+    {
+      "key": "119-123",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ123.xml",
+      "path": "plaw/119/PLAW-119publ123.xml",
+      "sort": "0119-00123",
+      "sha256": "2b1c672bb323979dc5ac44d72ff16314986fb5cb761bb9ace580fc1bf94585e5",
+      "bytes": 15801
+    },
+    {
+      "key": "119-124",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ124.xml",
+      "path": "plaw/119/PLAW-119publ124.xml",
+      "sort": "0119-00124",
+      "sha256": "7c8dec1dcf32d7c87d694c87114e869f61890418d420227479915bf895597c0c",
+      "bytes": 9958
+    },
+    {
+      "key": "119-125",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ125.xml",
+      "path": "plaw/119/PLAW-119publ125.xml",
+      "sort": "0119-00125",
+      "sha256": "c355aad514a33efc73a16b5cf992e133f9367e1f3f599b95d84f08405d49ecce",
+      "bytes": 9641
+    },
+    {
+      "key": "119-126",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ126.xml",
+      "path": "plaw/119/PLAW-119publ126.xml",
+      "sort": "0119-00126",
+      "sha256": "904d05974295e198c0face148806683734177250d0e508f8efda57d70e7ff432",
+      "bytes": 14011
+    },
+    {
+      "key": "119-127",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ127.xml",
+      "path": "plaw/119/PLAW-119publ127.xml",
+      "sort": "0119-00127",
+      "sha256": "2755d860309b77d61602c82192c57935d53e290a527d6d6399259703695fb474",
+      "bytes": 11745
+    },
+    {
+      "key": "119-128",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ128.xml",
+      "path": "plaw/119/PLAW-119publ128.xml",
+      "sort": "0119-00128",
+      "sha256": "c1f2dc7f01976abae89705bbbdcfd96c35a6a210d887959abc4b0ec6da84eadb",
+      "bytes": 13252
+    },
+    {
+      "key": "119-129",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ129.xml",
+      "path": "plaw/119/PLAW-119publ129.xml",
+      "sort": "0119-00129",
+      "sha256": "242d78567dbecaaf4cf93bbfc4f9cf295d099eb92e14750c972cf3a297f43470",
+      "bytes": 31752
+    },
+    {
+      "key": "119-130",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ130.xml",
+      "path": "plaw/119/PLAW-119publ130.xml",
+      "sort": "0119-00130",
+      "sha256": "3c6aeb71562eff89b9c7b77556c5825fecec3ff3c1749129edada91aa68a8d40",
+      "bytes": 14012
+    },
+    {
+      "key": "119-131",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ131.xml",
+      "path": "plaw/119/PLAW-119publ131.xml",
+      "sort": "0119-00131",
+      "sha256": "a386e19601068790bae71dad73caab1ef22d7211510d805b35493778c18c94c4",
+      "bytes": 14029
+    },
+    {
+      "key": "119-132",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ132.xml",
+      "path": "plaw/119/PLAW-119publ132.xml",
+      "sort": "0119-00132",
+      "sha256": "ed04b64f2866e26a23e7ffb6a40debadb9ed402835c7080702659678d6710bf9",
+      "bytes": 9669
+    },
+    {
+      "key": "119-133",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ133.xml",
+      "path": "plaw/119/PLAW-119publ133.xml",
+      "sort": "0119-00133",
+      "sha256": "59888e6446c8054469e53afc1e5299bca6eea2d33bc174218a0e4ad0ed560c14",
+      "bytes": 15168
+    },
+    {
+      "key": "119-134",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ134.xml",
+      "path": "plaw/119/PLAW-119publ134.xml",
+      "sort": "0119-00134",
+      "sha256": "8d68be4c59bb146d54d45dcd9acc187b34d31f93b2bad19d2d8ba61880076748",
+      "bytes": 7573
+    },
+    {
+      "key": "119-135",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ135.xml",
+      "path": "plaw/119/PLAW-119publ135.xml",
+      "sort": "0119-00135",
+      "sha256": "70eb8e74174e848622d66851c0e3ed559a861fa96d0339f71f3bdd65e874485f",
+      "bytes": 14484
+    },
+    {
+      "key": "119-136",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ136.xml",
+      "path": "plaw/119/PLAW-119publ136.xml",
+      "sort": "0119-00136",
+      "sha256": "ae4908202d5bd6de7d3d847773ad431aa4ff08ae8e842f5bce21be00f6499c4f",
+      "bytes": 19564
+    },
+    {
+      "key": "119-137",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ137.xml",
+      "path": "plaw/119/PLAW-119publ137.xml",
+      "sort": "0119-00137",
+      "sha256": "237f6776a06dd806a9d7b545d3ae7ac17bbc11f25d2f272c75c6e9014b3deaa6",
+      "bytes": 6390
+    },
+    {
+      "key": "119-138",
+      "url": "https://www.govinfo.gov/bulkdata/PLAW/119/public/PLAW-119publ138.xml",
+      "path": "plaw/119/PLAW-119publ138.xml",
+      "sort": "0119-00138",
+      "sha256": "c14efd19f147daf2503b4711f22ac567e945a0a305483ddd5507b4dfb9b78b4e",
+      "bytes": 16276
+    }
+  ],
+  "fetched_at": "2026-11-10T08:28:43+00:00"
+}

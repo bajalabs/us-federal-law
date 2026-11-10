@@ -1,0 +1,18 @@
+# downloads and build outputs: never in git (see README, "Why the Code is not in git")
+source/
+dist/
+*.sqlite
+*.sqlite-journal
+*.zst
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+uv.lock
+*.egg-info/
+build/
+
+# OS
+.DS_Store
